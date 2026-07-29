@@ -2,6 +2,8 @@
 
 ..to-do.. how to adapt in your club and there is the Divergences from FIIM below
 
+If your club is currently running on a patchwork of house rules, forum threads, and word-of-mouth clarifications, we'd like to invite you to adopt EMU as your standard instead. EMU exists as one source of truth: a single, actively maintained, English-language ruleset, so your judges and players aren't reconciling conflicting versions or translating rulings on the fly — a particular benefit for English-speaking clubs who'd otherwise be working from a translation of the original. Adopting EMU doesn't mean cutting yourself off from FIIM either: EMU is deliberately kept FIIM-compatible, so your club stays legible to the wider community your players may already know.
+
 ## What FIIM Is
 
 FIIM (The Federation of Intellectual Games "Mafia") is the international governing body that publishes the original Russian-language rules — the equivalent of FIDE for chess or the ITF for tennis. EMU is an independent, English-language ruleset that is **FIIM-compatible**. EMU is not affiliated with, endorsed by, or authorised by FIIM.

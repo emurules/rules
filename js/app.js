@@ -6,7 +6,7 @@
   const MOON = "☽";
 
   const PAGES = {
-    "rules": { file: "content/emu-rules.md", title: "EMU Rules" },
+    "rules": { file: "README.md", title: "EMU Rules" },
     "adapt-in-your-club": { file: "content/adapt-in-your-club.md", title: "Adapt in Your Club" },
     "committee": { file: "content/committee.md", title: "EMU Committee" },
     "copyright": { file: "content/copyright.md", title: "Copyright", licenseFile: "LICENSE" }

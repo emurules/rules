@@ -1,8 +1,4 @@
-# Adapt in your Club
-
-..to-do.. how to adapt in your club and there is the Divergences from FIIM below
-
-If your club is currently running on a patchwork of house rules, forum threads, and word-of-mouth clarifications, we'd like to invite you to adopt EMU as your standard instead. EMU exists as one source of truth: a single, actively maintained, English-language ruleset, so your judges and players aren't reconciling conflicting versions or translating rulings on the fly — a particular benefit for English-speaking clubs who'd otherwise be working from a translation of the original. Adopting EMU doesn't mean cutting yourself off from FIIM either: EMU is deliberately kept FIIM-compatible, so your club stays legible to the wider community your players may already know.
+# Divergences from FIIM
 
 ## What FIIM Is
 

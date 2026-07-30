@@ -1,1 +1,0 @@
-# Full License Text

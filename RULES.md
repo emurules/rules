@@ -1,6 +1,6 @@
 # EMU Rules
 
-> **v1.0, 2026 Edition**
+> **v2026.1 Edition**
 
 This text is the sole and complete source of the Rules. It admits no supplementary commentary, no separate committee interpretations, and no clarifications maintained elsewhere. Any ambiguity that a future edition must resolve is to be resolved within this text, under a new version number, and not in a separate document.
 

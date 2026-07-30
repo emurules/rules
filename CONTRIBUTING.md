@@ -23,6 +23,15 @@ and versioned, not casual.
   divergence).
 - An entry in `CHANGELOG.md` describing what changed and why.
 
+## Versioning
+
+Versions are named `vYYYY.N` — the letter `v`, followed by the year of the
+edition, followed by a release number within that year (e.g. `v2026.1` is
+the first release of 2026; a second release the same year would be
+`v2026.2`). A rule-change PR that ships a new edition must bump this
+version and update it wherever it appears (`README.md`, `RULES.md`) as well
+as recording it in `CHANGELOG.md`.
+
 ## Style and consistency
 
 - Keep terminology consistent with the existing text: Judge, Sheriff, Don,

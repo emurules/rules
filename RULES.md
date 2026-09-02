@@ -1,6 +1,6 @@
 # EMU Rules
 
-> **v2026.1 Edition**
+> **v2026.2 Edition**
 
 This text is the sole and complete source of the Rules. It admits no supplementary commentary, no separate committee interpretations, and no clarifications maintained elsewhere. Any ambiguity that a future edition must resolve is to be resolved within this text, under a new version number, and not in a separate document.
 
@@ -19,14 +19,9 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **1.2 Scope of Application**
 
-1. Games must be played at a table of sufficient size to seat ten players comfortably.
-2. The Judge may be seated at the table or positioned nearby, provided that the chosen position affords an unobstructed view and hearing of the entire game.
-3. Each seat must be fitted with a numbered placard and a mask for the player occupying it.
-4. The venue must provide sound or music equipment sufficient to conduct the Night phase.
-5. Players must remain within the gaming area for as long as they remain in the game.
-6. Players may bring and use personal equipment, subject to the following conditions: it must not endanger any person, it must not offend players, judges, or spectators, and it must not confer on its user an advantage not contemplated by these Rules.
-7. Where the Judge so requests, players must surrender their phones before the game begins, having first silenced or powered them off.
-8. A player may wear their own mask in place of the one provided at the table only with the Judge's approval.
+1. These Rules govern the ten-player format of Mafia conducted under the authority of the English Mafia Unified.
+2. They apply to every game that a tournament or event organiser designates as being played under these Rules, for the full duration of that game.
+3. Where an event's own regulations address a matter these Rules reserve to the event — such as the game type under 2.5, or tournament scoring and rating under Part X and Part XIII — those regulations govern; on every other matter of game procedure, these Rules prevail.
 
 ***
 
@@ -83,7 +78,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 1. Ten players take their seats at the table.
 2. The table must be of sufficient size to seat all ten players comfortably.
-3. The Judge may be seated at the table or apart from it, provided that the chosen position keeps every player in clear view and every word within earshot.
+3. The Judge may be seated at the table or apart from it, provided that the chosen position keeps every player in clear view and every word within earshot at all times.
 4. Each seat must be fitted with a numbered placard and a mask for the player occupying it.
 5. Seats are assigned either by a draw conducted by the Judge immediately before play begins, or in advance in accordance with the tournament schedule.
 
@@ -115,12 +110,6 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 #### **2.3.2 Music**
 
 1. The venue must provide sound equipment sufficient to conduct the Night phase.
-
-***
-
-#### **2.3.3 Judge Equipment**
-
-1. The Judge must be positioned so as to have an unobstructed view and hearing of the entire table at all times.
 
 ***
 

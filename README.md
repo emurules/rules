@@ -35,5 +35,5 @@ for current members.
 
 ## Versioning
 
-Current version: v2026.1 Edition. Changes are tracked in
+Current version: v2026.2 Edition. Changes are tracked in
 [`CHANGELOG.md`](CHANGELOG.md).

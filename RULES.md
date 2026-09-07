@@ -1,6 +1,6 @@
 # EMU Rules
 
-> **v2026.2 Edition**
+> **v2026.3 Edition**
 
 This text is the sole and complete source of the Rules. It admits no supplementary commentary, no separate committee interpretations, and no clarifications maintained elsewhere. Any ambiguity that a future edition must resolve is to be resolved within this text, under a new version number, and not in a separate document.
 
@@ -90,7 +90,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 2. At that signal, every player puts on their mask.
 3. The Judge then instructs each player, in turn, to remove the mask and open their eyes.
 4. By gesture, the player indicates which numbered card in the deck is to be turned over.
-5. The Judge counts down to that card and reveals it to the player.
+5. The Judge counts down to that card and reveals it to the player, together with the role gesture required by §9.2.
 6. Once the player has seen the card, the mask is put back on.
 7. The deck consists of seven Red cards and three Dark cards.
 
@@ -123,9 +123,10 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **2.5 Announcement of Game Type (Rating / Non-Rating / Tournament)**
 
-1. Whether a given game constitutes a rating, non-rating, or tournament game is determined by the regulations of that event, and not by these Rules.
+1. Whether a given game constitutes a rating, non-rating, or tournament game is determined by the regulations of that event. Absent any such determination, paragraph 4 applies.
 2. Tournament games are additionally subject to a points-based rating system, administered in accordance with the tournament's regulations.
 3. The conduct of a tournament game is governed by the official tournament regulations.
+4. A game counts for rating unless it is designated a non-rating game or a tournament game before the first Night, whether by the Judge or by the event's regulations.
 
 ***
 
@@ -200,12 +201,12 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 1. The Judge opens the first Night with the phrase: "Mafia wakes up and gets acquainted."
 2. Every Dark player removes their mask and opens their eyes simultaneously.
 3. The Dark players identify one another in silence; no talking is permitted.
-4. Using the official gesture defined in these Rules, the Don identifies themselves to the rest of the Dark team.
+4. Using the official gesture defined in these Rules (PART XVI), the Don identifies themselves to the rest of the Dark team.
 5. The Don also establishes the shooting order to be followed on subsequent Nights.
 6. This process, comprising both identification and the establishment of the order, must be completed within one minute.
 7. Upon expiry of that minute, the Judge announces: "Mafia falls asleep."
 8. Masks are put back on.
-9. The Judge then instructs the Sheriff to identify themselves, likewise in silence.
+9. The Judge then instructs the Sheriff to identify themselves, likewise in silence, using the official gesture defined in these Rules (PART XVI).
 10. Once the Sheriff has done so, the Judge waits a further thirty seconds before proceeding.
 11. Throughout that interval, all players observe **Relaxed Seating**: the Night behaviour requirements continue to apply, except that hands need not be crossed over the shoulders.
 12. During Relaxed Seating, a player's hands must instead remain visible above the table.
@@ -218,7 +219,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 2. Thereafter, the Judge continues with the announcement: "Mafia goes hunting. Raise their pistols."
 3. Each Dark player raises a hand.
 4. Seat numbers are called out in order, from one to ten.
-5. Each Dark player mimes a firing motion at the instant their intended target's seat number is called, without pointing or aiming, the motion being timed to coincide with that number.
+5. Each Dark player mimes a firing motion with two fingers of a raised hand held high, timed to the instant their intended target's seat number is called. The target is identified by that timing alone; the direction the hand points is immaterial (see PART XVI).
 6. An elimination results only if every Dark player fires at the same moment, that is, all mime firing on the same seat number.
 7. Any discrepancy, whether a Dark player firing on a different number than the rest, firing on more than one number, or not firing at all, results in a misfire.
 8. In the event of a misfire, no player is eliminated during that Night.
@@ -232,7 +233,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 1. The Judge announces: "Don wakes and is looking for the Sheriff."
 2. The Don removes their mask and indicates one seat number using their fingers.
 3. The Don has no more than ten seconds to make this check.
-4. The Judge responds with the prescribed head movement together with the official gesture set out in these Rules, confirming or ruling out that the indicated player is the Sheriff.
+4. The Judge responds with the prescribed head movement together with the official gesture set out in these Rules (PART XVI), confirming or ruling out that the indicated player is the Sheriff.
 5. No word is spoken.
 6. The Judge then announces: "Don falls asleep."
 
@@ -243,8 +244,8 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 1. The Judge announces: "Sheriff wakes."
 2. The Sheriff removes their mask and indicates one seat using their fingers.
 3. The Sheriff has no more than ten seconds to make this check.
-4. The Judge responds using the official gestures defined in these Rules.
-5. The head movement and hand gesture are given simultaneously.
+4. The Judge responds using the official hand gesture defined in these Rules (PART XVI).
+5. The Sheriff check result carries no head movement; the hand gesture alone conveys it.
 6. No word is spoken.
 7. The Judge then announces: "Sheriff falls asleep."
 
@@ -252,7 +253,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **4.6 Best Move (First-Killed Player)**
 
-1. A player who is first-killed is entitled to make a Best Move.
+1. A player who is first-killed is entitled to make a Best Move. This right attaches to whichever player is first eliminated by a Night shot, whatever Night that occurs on; an intervening misfire does not extinguish it (see §11.11), and §8.8 states the one exception.
 2. The Judge announces: "Everyone continue sleeping and staying in the night position, only one player has been killed during the night and they can do their best move. Player No. \_\_, you have been killed. Wake up and call only three numbers and nothing else. You have 20 seconds to do so."
 3. The player removes their mask and states aloud three seat numbers believed to belong to the Dark team.
 4. Twenty seconds is the maximum time permitted to do so.
@@ -272,6 +273,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 2. That player's role is not revealed.
 3. Elimination occurs at the moment the outcome of the shooting is determined.
 4. Where such elimination decides the game outright, the eliminated player nonetheless retains the right to the final speech guaranteed by these Rules.
+5. For the purpose of win-condition checks under PART VI, elimination takes effect at the moment of determination under paragraph 3, not at the player's physical departure or final speech.
 
 ***
 
@@ -367,13 +369,12 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 ### **5.8 Split Vote (Tie) Procedure**
 
 1. If two or more players receive an equal and highest number of votes, each such player is granted thirty seconds for additional speech.
-2. After these speeches, a re-vote is conducted among those candidates in the order of their nomination.
-3. If the re-vote again results in a tie among fewer candidates, the tied players again receive thirty seconds for speech followed by another re-vote.
-4. If the re-vote results in a tie among the same candidates, the Judge puts to vote the question: "Who is in favour of all nominated players leaving the table?"
-5. If the majority votes in favour, all such players leave the game.
+2. After these speeches, a re-vote is conducted among the players currently tied, in the order of their original nomination. Each further re-vote under this Section is likewise conducted only among the players currently tied. Where a player fails to vote in a re-vote, that vote is counted automatically against the last-nominated player still among those currently tied.
+3. If the re-vote again results in a tie among a smaller set of players than went into it, those players each receive a further thirty seconds for speech, followed by another re-vote. This step repeats only for as long as the tied set continues to grow smaller.
+4. If the re-vote results in a tie among the same players who went into it, the Judge puts to the table the question: "Who is in favour of all players currently tied leaving the table?"
+5. If the majority votes in favour, all players currently tied leave the game.
 6. If the majority votes against, or the votes are equally divided, no player leaves the game and the Judge announces the Night phase.
-7. Voting to eliminate three players when nine players remain at the table is not conducted.
-8. Voting to eliminate all players at the table is not conducted.
+7. The collective-elimination restrictions in §8.6 apply to this procedure: a vote to remove every player at the table is not conducted, nor is a vote to remove three players where nine remain.
 
 ***
 
@@ -417,6 +418,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 2. When parity occurs, the game immediately ends with victory of the Dark team.
 3. No further speeches, voting, or Night actions are conducted once victory conditions are met.
 4. The Judge announces the result of the game immediately upon determination of a win condition.
+5. For the purpose of every win-condition check in this Part, a player's elimination takes effect when the vote result or Night kill is determined (§1.3.4, §4.7.3), not when the player physically leaves the table or gives a final speech.
 
 ***
 
@@ -485,8 +487,10 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 2. This provision does not apply where the player:
    * was eliminated during the Night phase, or
    * is the player leaving as a result of that vote.
-3. Where a player is removed by a fourth Warning or a Disqualifying Foul after that Day's voting result has already been determined, and that player was not the one eliminated by the vote, no vote is conducted on the following Day.
-4. In that situation, the result of the vote is deemed determined at the moment the Judge calls the Night phase.
+3. The exception in paragraph 2 for the player leaving as a result of that vote applies only where that player held the highest number of votes at the moment of removal; the Judge then records the vote as determined at that moment and conducts no further voting on it. Where that player did not hold the highest number of votes, paragraph 1 applies and the vote is not conducted.
+4. Where the vote is not conducted under paragraph 1, the remainder of the Day phase still proceeds as normal — the remaining speeches are given — and only the vote is omitted; the Judge announces the Night phase at the ordinary end of the Day.
+5. Where a player is removed by a fourth Warning or a Disqualifying Foul after that Day's voting result has already been determined, and that player was not the one eliminated by the vote, no vote is conducted on the following Day.
+6. In that situation, the result of the vote is deemed determined at the moment the Judge calls the Night phase.
 
 ***
 
@@ -505,14 +509,13 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **8.4 Speech Modifications After Accumulation of Warnings**
 
-1. A player with three Warnings retains the right to speak during a re-vote.
-2. Where a player has three Warnings, and only three or four players remain at the table, that player's speech is limited to thirty seconds.
+1. The speech rights and restrictions of a player who has accumulated three Warnings — including the right to speak in a re-vote and the reduction to thirty seconds where only three or four players remain at the table — are governed by §12.4.
 
 ***
 
 ### **8.5 Draw After Consecutive Nights Without Change**
 
-1. Where three consecutive Night phases occur and the number of players at the table does not change during that period, the game is declared a draw after the third Night.
+1. Where three consecutive Night phases occur and the number of players at the table does not change during that period, the game is declared a draw after the third Night. A player leaving the table for any reason, including removal under PART XII, is a change in the number of players and resets this count.
 
 ***
 
@@ -520,6 +523,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 1. A vote may never target every player still at the table.
 2. Nor may a vote target three players where the table holds nine.
+3. These restrictions are restated for the Split Vote procedure at §5.8.7.
 
 ***
 
@@ -543,7 +547,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 ### **9.1 General Principles of Official Gestures**
 
 1. During the Night phase, communication between the Judge and players is conducted exclusively through the official gestures established by these Rules and through the prescribed verbal commands of the Judge.
-2. The gestures defined in these Rules are the only official gestures permitted for transmitting Night information.
+2. The gestures defined in these Rules are the only official gestures permitted for transmitting Night information. Each is described in PART XVI.
 3. No verbal explanation or clarification of Night results is permitted unless expressly provided by these Rules.
 4. Any use of non-official gestures or signals intended to transmit game information constitutes a violation of the Rules.
 
@@ -551,14 +555,19 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **9.2 Role Indication During Card Distribution**
 
-1. During role distribution, the Judge sequentially shows each player their card.
-2. No additional gestures are used by the Judge to indicate the role beyond showing the selected card.
+1. During role distribution, the Judge shows each player their card in turn.
+2. As the card is shown, and visible only to that player, the Judge gives the gesture for the role, as described in PART XVI:
+   * a Red card that is not the Sheriff — a raised thumb;
+   * a Dark card that is not the Don — a lowered thumb;
+   * the Sheriff card — the Sheriff sign (§16.2);
+   * the Don card — the Don sign (§16.3).
+3. No word is spoken during role distribution.
 
 ***
 
 ### **9.3 Sheriff Identification (First Night)**
 
-1. During the first Night, upon instruction of the Judge, the Sheriff indicates themselves by the official gesture established by these Rules.
+1. During the first Night, upon instruction of the Judge, the Sheriff indicates themselves by the official gesture established by these Rules (PART XVI).
 2. This gesture is visible only to the Judge.
 3. No verbal confirmation of the Sheriff's identity is permitted.
 
@@ -567,7 +576,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 ### **9.4 Don Check Result Gesture**
 
 1. When the Judge announces: "Don wakes and is looking for the Sheriff," the Don indicates the number of one player using fingers.
-2. The Judge communicates the result exclusively through the official gestures established by these Rules.
+2. The Judge communicates the result exclusively through the official gestures established by these Rules (PART XVI).
 3. Where the indicated player is the Sheriff, the Judge simultaneously shows:
    * the characteristic affirmative head movement prescribed by the Rules, and
    * the official hand gesture established for confirmation of finding the Sheriff.
@@ -582,21 +591,17 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 ### **9.5 Sheriff Check Result Gesture**
 
 1. When the Judge announces: "Sheriff wakes," the Sheriff indicates the number of one player using fingers.
-2. The Judge communicates the result exclusively through the official gestures established by these Rules.
-3. Where the checked player belongs to the Red team, the Judge simultaneously shows:
-   * the characteristic head movement prescribed for a Red result, and
-   * the official hand gesture established for confirmation of a Red player.
-4. Where the checked player belongs to the Dark team, the Judge simultaneously shows:
-   * the characteristic head movement prescribed for a Dark result, and
-   * the official hand gesture established for confirmation of a Dark player.
-5. The head movement and hand gesture must be shown simultaneously.
+2. The Judge communicates the result exclusively through the official hand gesture established by these Rules (PART XVI).
+3. Where the checked player belongs to the Red team, the Judge shows the hand gesture established for a Red result.
+4. Where the checked player belongs to the Dark team, the Judge shows the hand gesture established for a Dark result.
+5. The Sheriff check result carries no head movement; the hand gesture alone conveys it.
 6. No verbal confirmation of the result is permitted.
 
 ***
 
 ### **9.6 Dark Team Shooting Indication**
 
-1. During the Night shooting procedure, members of the Dark team indicate their chosen target by imitating a shot with fingers of a raised hand when the Judge calls the corresponding seat number.
+1. During the Night shooting procedure, members of the Dark team indicate their chosen target by imitating a shot with two fingers of a raised hand held high when the Judge calls the corresponding seat number, in accordance with PART XVI.
 2. The shooting is considered successful only where all members of the Dark team indicate the same player.
 3. Any discrepancy results in a misfire in accordance with these Rules.
 
@@ -647,7 +652,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **10.3 What Is Regulated**
 
-1. The conduct of the game itself (phases, actions, elimination, victory conditions) is regulated by PARTS I–IX of these Rules.
+1. The conduct of the game itself (phases, actions, elimination, victory conditions) is regulated by PARTS I–IX of these Rules, with the official gestures described in PART XVI.
 2. Disciplinary responsibility and sanctions for rule violations are regulated by PART XII — FULL DISCIPLINARY REGULATION.
 3. Tournament scoring, rating calculation, bonus points, and penalties affecting player rating are regulated by PART XIII — TOURNAMENT SCORING AND RATING SYSTEM.
 4. Procedures for challenging decisions and reviewing results are regulated by PART XIV — APPEALS AND RESULT REVIEW PROCEDURE.
@@ -834,8 +839,9 @@ The following actions draw a Warning:
 6. Violating the voting procedure.
 7. Disputing with the Judge during the game.
 8. Failure to comply with Night behavioural requirements.
-9. Removing or improperly handling the mask without instruction.
-10. Other minor procedural violations expressly defined by these Rules.
+9. Removing or improperly handling the mask without instruction during Relaxed Seating or the Day phase.
+10. Concealing speech information by using a language other than the designated language of the game.
+11. Other minor procedural violations expressly defined by these Rules.
 
 ***
 
@@ -849,13 +855,12 @@ The following actions draw a Disqualifying Foul:
 4. Revealing role information obtained during the Night by prohibited means.
 5. Use of offensive or abusive language directed at players, the Judge, tournament officials, or spectators.
 6. Intentional violation of the Night procedure.
-7. Any action that materially compromises the integrity of the game.
-8. Appealing to religious, ethical, or non-game values to prove one's role.
-9. Concealing speech information by using a foreign language.
-10. Crying at the gaming table.
-11. Use of obscene language.
-12. Use of the word "suicide" in any form during the game.
-13. Leaving the gaming table without the Judge's permission.
+7. Contact with the mask during the Night phase where the eyes are, or could thereby be, exposed (see §4.1.7).
+8. Any action that materially compromises the integrity of the game.
+9. Appealing to religious, ethical, or non-game values to prove one's role.
+10. Use of obscene language.
+11. Use of the word "suicide" in any form during the game.
+12. Leaving the gaming table without the Judge's permission.
 
 ***
 
@@ -883,8 +888,16 @@ The following actions draw a Disqualifying Foul:
 ### **12.10 Notice**
 
 1. A Notice is a caution issued by the Judge for conduct that breaches these Rules but is too minor to warrant a Warning.
-2. A Notice does not accumulate toward the Warning ladder in §12.3 and carries no scoring consequence under PART XIII.
+2. A Notice does not accumulate toward the Warning ladder in §12.3 and carries no scoring consequence under PART XIII. It is distinct from the Disciplinary penalty under §13.11, which the Head Judge imposes for conduct between games.
 3. The Judge determines whether particular conduct warrants a Notice or a Warning.
+
+***
+
+### **12.11 Involuntary Emotional Response**
+
+1. An involuntary emotional response at the gaming table, including visible distress or crying, is not in itself a foul.
+2. The Judge may respond with a Notice and, where the response continues to disrupt play, with a Warning.
+3. Removal is reserved for the case where play genuinely cannot continue.
 
 ***
 
@@ -968,7 +981,7 @@ These penalties are deducted from the player's final rating score for the game.
 1. A player removed from the game due to receipt of a fourth Warning or Disqualifying Foul receives a **Removal penalty of 0.8 points**.
 2. A player subject to Team Defeat Assignment (PPK) receives a **PPK penalty of 1.0 point**.
 3. The imposition of PPK results in assignment of victory to the opposing team.
-4. Where a rematch is ordered under §14.5, the Head Judge may decide to carry the removal penalty into the rematch, but only where the removal was for profanity or insults.
+4. Where a rematch is ordered under §14.5, the Head Judge may decide to carry the removal penalty into the rematch, but only where the removal was under §12.7.5 (offensive or abusive language) or §12.7.10 (use of obscene language).
 
 ***
 
@@ -1011,7 +1024,7 @@ Where players have equal rating totals, ranking is determined in the following o
 
 ### **13.11 Disciplinary Penalty**
 
-1. A Disciplinary penalty is imposed for conduct occurring between games, including lateness to a scheduled game and breaches of tournament regulations.
+1. A Disciplinary penalty is imposed for conduct occurring between games, including lateness to a scheduled game and breaches of tournament regulations. It is separate from a Notice under §12.10, which addresses in-game conduct only.
 2. A Disciplinary penalty is imposed by the Head Judge.
 3. The value of a Disciplinary penalty is set by tournament regulation.
 4. A Disciplinary penalty is recorded in the protocol independently of the scoring for any single game.
@@ -1163,5 +1176,61 @@ Upon review of an appeal, the reviewing authority may:
 22. A Red player or the Sheriff who, when voted out, leaves as their stated priority that they are a member of the Dark team, or leaves an assigned shot that is subsequently carried out, receives a Big penalty.
 23. Where a member of the Dark team, or the Don, is voted out at the nine-player round while unchecked, a surviving member of the Dark team who subsequently fails to maintain that player's status as possibly Red receives a Small penalty.
 24. A player of any team who remains at the table at the moment a draw is declared receives a Small penalty (see §13.1.3).
+
+***
+
+## **PART XVI — GESTURE REFERENCE**
+
+***
+
+### **16.1 General**
+
+1. This Part describes the official gestures referred to throughout PART IV and PART IX. No other gesture is official.
+2. The Judge uses one consistent set of gestures for both teams throughout a game.
+3. Each gesture is visible only to its intended recipient and conveys nothing beyond the result it encodes.
+4. Where any provision of these Rules refers to the official gesture established by these Rules, the reference is to the gesture described in this Part.
+5. During role distribution the Judge also gives a role gesture with each card, as set out in §9.2: a raised thumb for a Red card, a lowered thumb for a Dark card, the Sheriff sign for the Sheriff, and the Don sign for the Don.
+
+***
+
+### **16.2 Sheriff Sign**
+
+1. The Sheriff sign is made with the palm up, the thumb and index finger forming a round "OK" shape, and the remaining three fingers open.
+2. The Sheriff uses this sign to identify themselves to the Judge on the first Night (§9.3).
+3. The Judge uses this sign as the hand component of both Don check results (§16.4).
+
+***
+
+### **16.3 Don Sign**
+
+1. The Don sign is made with the palm up, the four fingers open, and the thumb tapping the ring finger.
+2. The Don uses this sign to identify themselves to the Dark team on the first Night (§4.2).
+
+***
+
+### **16.4 Don Check Result**
+
+1. Where the indicated player is the Sheriff, the Judge raises both arms, each hand held in the Sheriff sign (§16.2), and nods the head up and down.
+2. Where the indicated player is not the Sheriff, the Judge crosses the arms, each hand held in the Sheriff sign (§16.2), and shakes the head from side to side.
+3. The hand gesture and the head movement are shown together. No word is spoken.
+
+***
+
+### **16.5 Sheriff Check Result**
+
+1. Where the checked player belongs to the Red team, the Judge shows a raised thumb.
+2. Where the checked player belongs to the Dark team, the Judge shows a lowered thumb.
+3. The Sheriff check result is conveyed by the hand alone; no head movement accompanies it.
+4. No word is spoken.
+
+***
+
+### **16.6 Shot-Miming Motion**
+
+1. Each shooting Dark player raises one hand well above the table, high enough for the Judge to see both the hand and its movement clearly.
+2. As the seat number of the intended target is called, the player mimes a shot with two fingers — the index and middle fingers — extended: a single clear firing motion made on that number.
+3. The target is identified by timing alone — the seat number being called at the moment of the mime. The direction in which the hand points does not matter, and extending the arm for the Judge's benefit is permitted and encouraged. A player is not required to aim at the target's seat and should not attempt to.
+4. The shot succeeds where every shooting Dark player makes a firing motion on the same called number at the same moment.
+5. A misfire results only where a Dark player mimes on a different number from the rest, mimes on more than one number, or does not mime at all (§4.3). Nothing else about the motion causes a misfire.
 
 ***

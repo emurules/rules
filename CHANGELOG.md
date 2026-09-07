@@ -5,7 +5,7 @@ All notable changes to EMU Rules are documented here.
 ## v2026.3 Edition
 
 A clarity-and-consistency pass. Every point below was raised by cross-checking
-the ruleset against real judging practice and against the FIIM text; the
+the ruleset against real judging practice; the
 document's own preamble requires such fixes to be made in the Rules themselves,
 under a new version.
 

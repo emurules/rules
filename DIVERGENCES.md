@@ -36,7 +36,7 @@ Everything not listed here works exactly as it does under FIIM. These are the on
 | Involuntary (accidental) peeking | Named, automatic disqualifying foul | A Warning instead — only *deliberate* peeking is a disqualifying foul under EMU |
 | Sheriff check result | The Judge shows a head movement together with the thumb (turn + thumb-up for Red, nod + thumb-down for Dark) | The thumb alone — up for Red, down for Dark, no head movement. The Don check result still uses a head movement |
 | Role distribution | The Judge shows the card | The Judge also gives the role gesture with the card — thumb up for a Red card, thumb down for a Dark card, the Sheriff or Don sign for the special roles |
-| Counting consecutive Nights (three-Night draw; two Nights without a shot or a check) | "Three Nights in a row" — the text does not say whether the agreement Night counts | Only shooting Nights count (Night 1 onward); the agreement Night (Night 0) never counts |
+| Three-Night draw | "Three Nights in a row" — the text does not say whether the agreement Night counts | Only shooting Nights count (Night 1 onward); the agreement Night (Night 0) never counts |
 | Best Move: player says something beyond the three numbers | Only the numbers said before the interruption are recorded, and are scored normally on however many of them are correct | The bonus is void entirely — no points, even if some of the truncated numbers were correct |
 
 ### Judge, discipline, and scoring

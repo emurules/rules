@@ -2,6 +2,54 @@
 
 All notable changes to EMU Rules are documented here.
 
+## v2026.4 Edition
+
+Zero-based Night numbering. Nights are now counted from zero: the Night of
+role distribution and the Dark team's agreement is **Night 0**, and the first
+shooting Night is **Night 1**. Days keep their numbering: Day 1 still follows
+the agreement Night, so Day N now sits between Night N−1 and Night N. No
+procedure changes; the same Nights simply carry new numbers.
+
+### Mapping from v2026.3
+
+Under v2026.3 the words "first Night" and "Second Night" named different Nights
+than they do now. Read any v2026.3 reference through this table:
+
+| v2026.3 wording | Meaning | v2026.4 wording |
+|---|---|---|
+| "first Night" / "meet-Night" | role distribution + Dark agreement + Sheriff identification | **Night 0** |
+| "Second Night" (§11.4) / "second Night onward" | first Night with shooting and checks | **Night 1** / "Night 1 onward" |
+| — | second shooting Night | Night 2 |
+| "first Day" | the Day after the agreement Night | **Day 1** (same Day, new wording) |
+
+§11.4 now also says that an ordinal word follows the number: "Zero Night"
+= Night 0, "First Night" = Night 1, "Second Night" = Night 2. The text itself
+uses numerals throughout.
+
+### Changes
+
+- **§2.2.1** — the opening "Night falls" begins Night 0; role distribution is
+  part of Night 0.
+- **§2.5.4** — rating designation deadline: "before the first Night" → "before
+  Night 0 begins" (same moment).
+- **§3.1.1** — ¶3–4 restated in Night 0 / Night 1 terms. New ¶6: "Night falls"
+  begins every Night phase and does not identify a particular Night.
+- **§4.2** — retitled "Night 0 — …". ¶1 corrected: the Judge does not *open*
+  a Night with "Mafia wakes up and gets acquainted"; that call is made within
+  Night 0, once role distribution is complete.
+- **§4.3** — retitled "Night 1 and Subsequent Nights — …". ¶1 no longer says
+  "like the first", which implied the two Nights opened differently.
+- **§8.5** — the three-Night draw now counts shooting Nights only; Night 0 is
+  expressly excluded. v2026.3 did not say whether the agreement Night counted.
+- **§11.4** — retitled from "'Second Night' Definition" to "Night and Day
+  Numbering"; defines Night 0, Night 1, Day numbering, and ordinal words.
+- **§9.3, §15.2.1–3, §15.2.11–12, §15.3.3, §16.2.2, §16.3.2** — Night references
+  restated as Night 0 / Night 1.
+- **§3.1.2.4, §5.4.2, §5.7.2.1, §8.8.1, §15.2.3, §15.2.12, §15.3.3, §15.4.1** —
+  "first Day" → "Day 1" (wording only).
+
+No sections or paragraphs are renumbered.
+
 ## v2026.3 Edition
 
 A clarity-and-consistency pass. Every point below was raised by cross-checking

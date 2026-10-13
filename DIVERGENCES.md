@@ -18,6 +18,7 @@ Same game, some relabelling:
 * The old disciplinary ladder gets a fourth name slotted in: **Notice → Warning → Disqualifying Foul → PPK** (four tiers existed before too — this just gives the lowest one its own name instead of overloading "Warning").
 * **FIIM SK** → **EMU Judging Committee** (SK is Russian for "Judging Committee" — the name carries over in meaning, not just letters)
 * **PPK** stays **PPK** — same abbreviation, same meaning.
+* **Night numbering starts at zero.** The Night of role distribution and the Dark team's agreement is **Night 0**, and the first shooting Night is **Night 1** (FIIM counts these as the first and second Night). Same Nights, same procedure — only the count shifts by one. EMU also states outright that the agreement Night does not count towards the three-Night draw.
 
 ## What actually changed (rule-wise)
 

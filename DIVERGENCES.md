@@ -18,6 +18,7 @@ Same game, some relabelling:
 * The old disciplinary ladder gets a fourth name slotted in: **Notice → Warning → Disqualifying Foul → PPK** (four tiers existed before too — this just gives the lowest one its own name instead of overloading "Warning").
 * **FIIM SK** → **EMU Judging Committee** (SK is Russian for "Judging Committee" — the name carries over in meaning, not just letters)
 * **PPK** stays **PPK** — same abbreviation, same meaning.
+* **Night numbering starts at zero.** The Night of role distribution, the Dark team's agreement and the Sheriff's identification is **Night 0**, and the first shooting Night is **Night 1** (FIIM counts these as the first and second game Night). Same Nights, same procedure — only the count shifts by one. **Watch the words:** in EMU, "First Night" means Night 1, the first *shooting* Night, not the agreement Night as in FIIM.
 
 ## What actually changed (rule-wise)
 
@@ -35,6 +36,7 @@ Everything not listed here works exactly as it does under FIIM. These are the on
 | Involuntary (accidental) peeking | Named, automatic disqualifying foul | A Warning instead — only *deliberate* peeking is a disqualifying foul under EMU |
 | Sheriff check result | The Judge shows a head movement together with the thumb (turn + thumb-up for Red, nod + thumb-down for Dark) | The thumb alone — up for Red, down for Dark, no head movement. The Don check result still uses a head movement |
 | Role distribution | The Judge shows the card | The Judge also gives the role gesture with the card — thumb up for a Red card, thumb down for a Dark card, the Sheriff or Don sign for the special roles |
+| Three-Night draw | "Three Nights in a row" — the text does not say whether the agreement Night counts | Only shooting Nights count (Night 1 onward); the agreement Night (Night 0) never counts |
 | Best Move: player says something beyond the three numbers | Only the numbers said before the interruption are recorded, and are scored normally on however many of them are correct | The bonus is void entirely — no points, even if some of the truncated numbers were correct |
 
 ### Judge, discipline, and scoring
@@ -43,6 +45,8 @@ Everything not listed here works exactly as it does under FIIM. These are the on
 |---|---|---|
 | Sanctions after the result is decided | Mostly stop once the outcome is settled — only interfering with the leaving player's farewell speech still draws a foul | The Judge can keep sanctioning more broadly after the result is already decided |
 | Judge bonus pool ceiling (total) | Can exceed 3.5 points with SK sign-off | Capped at 3.5 with Head Judge approval — no further escalation |
+| Sheriff's missed or wasted check, once the Dark team is known (Small penalty) | Excused once "the Dark team has been collected" — the term is not defined | Excused once the Sheriff's checks, alone or with the count of players left, already establish every remaining player's team. This expressly covers deducing the last Dark player by elimination, not only checking all three |
+| Sheriff not checking for two or more Nights (Big penalty) | No exception — applies even after the Dark team has been collected | Nights after the Dark team is known, in the sense of the row above, are not counted |
 | Appeals | Can be filed as a protocol note or a written protest; a judge-conduct complaint is always available | Written appeals only; judge-conduct complaints are conditional on the tournament's own regulations |
 
 EMU also writes its official gestures out in words (PART XVI) where FIIM gives them

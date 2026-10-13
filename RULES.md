@@ -1,6 +1,6 @@
 # EMU Rules
 
-> **v2026.3 Edition**
+> **v2026.4 Edition**
 
 This text is the sole and complete source of the Rules. It admits no supplementary commentary, no separate committee interpretations, and no clarifications maintained elsewhere. Any ambiguity that a future edition must resolve is to be resolved within this text, under a new version number, and not in a separate document.
 
@@ -86,7 +86,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **2.2 Role Distribution Procedure**
 
-1. The Judge opens the game by introducing the players and pronouncing the fixed phrase: "Night falls."
+1. The Judge opens the game by introducing the players and pronouncing the fixed phrase: "Night falls." This begins the opening Night phase of the game, Night 0 (§11.4), which starts with role distribution.
 2. At that signal, every player puts on their mask.
 3. The Judge then instructs each player, in turn, to remove the mask and open their eyes.
 4. By gesture, the player indicates which numbered card in the deck is to be turned over.
@@ -126,7 +126,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 1. Whether a given game constitutes a rating, non-rating, or tournament game is determined by the regulations of that event. Absent any such determination, paragraph 4 applies.
 2. Tournament games are additionally subject to a points-based rating system, administered in accordance with the tournament's regulations.
 3. The conduct of a tournament game is governed by the official tournament regulations.
-4. A game counts for rating unless it is designated a non-rating game or a tournament game before the first Night, whether by the Judge or by the event's regulations.
+4. A game counts for rating unless it is designated a non-rating game or a tournament game before Night 0 begins, whether by the Judge or by the event's regulations.
 
 ***
 
@@ -147,9 +147,10 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 1. The Night phase, like every other phase, proceeds under the Judge's control.
 2. No action may be taken during the Night phase unless called for by the Judge; players act only when so instructed.
-3. The first Night is reserved for the Dark team's agreement.
-4. From the second Night onward, Night actions follow the sequence set out in these Rules.
+3. Nights are numbered from zero (§11.4). Night 0 is reserved for role distribution, the Dark team's agreement, and the Sheriff's identification (§2.2, §4.2); it includes no shooting and no checks.
+4. From Night 1 onward, Night actions follow the sequence set out in these Rules.
 5. The Night phase gives way to the Day phase only once the Judge so announces.
+6. Every Night phase begins when the Judge announces: "Night falls." The phrase marks the start of a Night phase and does not identify any particular Night.
 
 ***
 
@@ -158,7 +159,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 1. The Day phase begins the moment the Judge so announces.
 2. During the Day phase, players discuss the game and nominate candidates for the vote.
 3. Speaking order follows the seat numbers around the table.
-4. Player No. 1 opens the speeches on the first Day.
+4. Player No. 1 opens the speeches on Day 1.
 5. On each subsequent Day, the speaking order resumes from the seat following the player who opened the previous Day's speeches.
 6. Each player is allotted one minute to speak, inclusive of any nomination.
 7. The Day phase concludes with a vote, conducted in accordance with the established procedure.
@@ -196,13 +197,13 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ***
 
-### **4.2 First Night — Dark Team Agreement and Sheriff Identification**
+### **4.2 Night 0 — Dark Team Agreement and Sheriff Identification**
 
-1. The Judge opens the first Night with the phrase: "Mafia wakes up and gets acquainted."
+1. Once role distribution (§2.2) is complete, and within the same Night 0, the Judge announces: "Mafia wakes up and gets acquainted."
 2. Every Dark player removes their mask and opens their eyes simultaneously.
 3. The Dark players identify one another in silence; no talking is permitted.
 4. Using the official gesture defined in these Rules (PART XVI), the Don identifies themselves to the rest of the Dark team.
-5. The Don also establishes the shooting order to be followed on subsequent Nights.
+5. The Don also establishes the shooting order to be followed from Night 1 onward.
 6. This process, comprising both identification and the establishment of the order, must be completed within one minute.
 7. Upon expiry of that minute, the Judge announces: "Mafia falls asleep."
 8. Masks are put back on.
@@ -213,9 +214,9 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ***
 
-### **4.3 Second and Subsequent Nights — Dark Team Action (Shooting Procedure)**
+### **4.3 Night 1 and Subsequent Nights — Dark Team Action (Shooting Procedure)**
 
-1. Each such Night, like the first, opens with the Judge's announcement: "Night falls."
+1. Each such Night, like every Night phase, opens with the Judge's announcement: "Night falls" (§3.1.1.6).
 2. Thereafter, the Judge continues with the announcement: "Mafia goes hunting. Raise their pistols."
 3. Each Dark player raises a hand.
 4. Seat numbers are called out in order, from one to ten.
@@ -315,7 +316,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 ### **5.4 Speech Order and Time Limits**
 
 1. During the Day phase, players speak in numerical seat order.
-2. On the first Day, speeches begin with Player No. 1.
+2. On Day 1, speeches begin with Player No. 1.
 3. On each subsequent Day, speeches begin with the next seat number following the player who started the previous Day.
 4. Each player is allocated one minute for speech.
 5. The time allocated for speech includes time used for nomination of candidates.
@@ -361,7 +362,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 #### **5.7.2 Day 1 Special Case: Single Nominee → No Vote**
 
-1. Where only one candidate is nominated on the first Day, no vote is conducted.
+1. Where only one candidate is nominated on Day 1, no vote is conducted.
 2. The Day ends with no player eliminated.
 
 ***
@@ -515,7 +516,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **8.5 Draw After Consecutive Nights Without Change**
 
-1. Where three consecutive Night phases occur and the number of players at the table does not change during that period, the game is declared a draw after the third Night. A player leaving the table for any reason, including removal under PART XII, is a change in the number of players and resets this count.
+1. Where three consecutive shooting Nights occur and the number of players at the table does not change during that period, the game is declared a draw after the third such Night. Night 0, the agreement Night, is not counted; only shooting Nights (Night 1 onward) count. A player leaving the table for any reason, including removal under PART XII, is a change in the number of players and resets this count.
 
 ***
 
@@ -536,7 +537,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **8.8 Restriction on Best Move Eligibility**
 
-1. A player who is first-killed does not have the right to perform a Best Move where, as a result of the first Day's voting, two or more players left the game.
+1. A player who is first-killed does not have the right to perform a Best Move where, as a result of the voting on Day 1, two or more players left the game.
 
 ***
 
@@ -565,9 +566,9 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ***
 
-### **9.3 Sheriff Identification (First Night)**
+### **9.3 Sheriff Identification (Night 0)**
 
-1. During the first Night, upon instruction of the Judge, the Sheriff indicates themselves by the official gesture established by these Rules (PART XVI).
+1. During Night 0, upon instruction of the Judge, the Sheriff indicates themselves by the official gesture established by these Rules (PART XVI).
 2. This gesture is visible only to the Judge.
 3. No verbal confirmation of the Sheriff's identity is permitted.
 
@@ -705,10 +706,12 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ***
 
-### **11.4 "Second Night" Definition**
+### **11.4 Night and Day Numbering**
 
-1. The **Second Night** is the first Night during which the Dark team performs a shooting action and the Don and Sheriff perform their Night checks.
-2. The First Night is exclusively the Night of agreement of the Dark team and does not include shooting.
+1. Nights are numbered from zero. **Night 0** is the Night phase that opens the game: it comprises role distribution (§2.2), the Dark team's agreement, and the Sheriff's identification (§4.2). It includes no shooting and no checks.
+2. **Night 1** is the earliest Night during which the Dark team performs a shooting action and the Don and Sheriff perform their Night checks. Each later Night takes the next number.
+3. Days are numbered from one. **Day 1** follows Night 0; in general, Day N follows Night N−1 and precedes Night N.
+4. Where a Night is referred to by an ordinal word, the ordinal corresponds to the Night's number: "Zero Night" means Night 0, "First Night" means Night 1, "Second Night" means Night 2, and each subsequent ordinal means the Night bearing the corresponding number.
 
 ***
 
@@ -1113,19 +1116,19 @@ Upon review of an appeal, the reviewing authority may:
 
 ### **15.2 Night Phase Triggers**
 
-1. A member of the Dark team, other than the Don, who does not wake for the meet-Night acquaintance procedure receives a Big penalty.
-2. The Don who does not wake for the meet-Night acquaintance procedure **and** does not assign the shooting order receives a Big penalty. Both omissions must occur for this trigger to apply.
-3. The Don who does not assign the shooting order on the first Night and does not clearly assign it during the following Day receives a Small penalty, if the omission led to a misfire.
+1. A member of the Dark team, other than the Don, who does not wake for the Night 0 acquaintance procedure receives a Big penalty.
+2. The Don who does not wake for the Night 0 acquaintance procedure **and** does not assign the shooting order receives a Big penalty. Both omissions must occur for this trigger to apply.
+3. The Don who does not assign the shooting order on Night 0 and does not clearly assign it during Day 1 receives a Small penalty, if the omission led to a misfire.
 4. The Don who does not wake for the Sheriff search, does not make a check, or checks the same player twice receives a Small penalty, if the Sheriff had not yet been identified by the Dark team.
 5. A member of the Dark team, or the Don, who misses when the shot target was clearly assigned receives a Small penalty.
 6. A member of the Dark team, or the Don, who was assigned to call the shot target and did not do so, or did so unclearly, receives a Small penalty, if the omission led to a misfire.
-7. A member of the Dark team, or the Don, who does not shoot for two or more consecutive Nights, where this is a failure to shoot rather than a misfire, receives a Big penalty.
+7. A member of the Dark team, or the Don, who does not shoot on two or more shooting Nights during the game (Night 1 onward; Night 0 is not counted), where this is a failure to shoot rather than a misfire, receives a Big penalty.
 8. A member of the Dark team, or the Don, who misses a shot that was clearly assigned and that would otherwise have immediately produced victory for the Dark team receives a Big penalty.
 9. A member of the Dark team, or the Don, whose shooting decisions lead to a mathematical loss for the Dark team receives a Big penalty. The same applies to the Don whose Night checks lead to a mathematical loss for the Dark team.
-10. The Sheriff who does not wake to check, does not make a check, repeats a previous check, or checks a player already eliminated receives a Small penalty, except where the entire Dark team has already been identified.
-11. The Sheriff who uses the check on the Second Night on a Red player who had been clearly designated for elimination that Night receives a Small penalty, if the Red team lost the game.
-12. The Sheriff who uses the check on the Second Night on a player who had openly claimed to be the Sheriff on the first Day receives a Small penalty, if the Red team lost the game.
-13. The Sheriff who does not check for two or more consecutive Nights receives a Big penalty.
+10. The Sheriff who does not wake to check, does not make a check, repeats a previous check, or checks a player already eliminated receives a Small penalty, except where the entire Dark team has already been identified. For this paragraph and paragraph 13, the entire Dark team has been identified where the Sheriff's previous checks, alone or together with the number of players remaining at the table, already establish the team of every player still at the table, so that no further check could give the Sheriff new information. This test concerns the Sheriff's own knowledge and is distinct from certain identification at the table under §11.10.
+11. The Sheriff who uses the check on Night 1 on a Red player who had been clearly designated for elimination that Night receives a Small penalty, if the Red team lost the game.
+12. The Sheriff who uses the check on Night 1 on a player who had openly claimed to be the Sheriff on Day 1 receives a Small penalty, if the Red team lost the game.
+13. The Sheriff who does not check on two or more shooting Nights during the game (Night 1 onward; Night 0 is not counted) receives a Big penalty. A Night that falls after the entire Dark team has already been identified, within the meaning of paragraph 10, is not counted.
 14. The Sheriff who does not check in a situation where any check would have guaranteed a mathematical victory for the Red team receives a Big penalty.
 15. A Red player or the Sheriff, who is first-killed and leaves a will prioritising an incorrect version of the game, receives a Small penalty.
 
@@ -1135,7 +1138,7 @@ Upon review of an appeal, the reviewing authority may:
 
 1. A Red player or the Sheriff who voices, gestures, or hints that they heard another Red player during the Night receives a Small penalty, if it negatively affected the game.
 2. A Red player or the Sheriff who covers for a member of the Dark team and does not withdraw that cover before Night falls prior to the seven- or eight-player round receives a Small penalty.
-3. The Sheriff who reveals their identity to a member of the Dark team on the first Day, and is killed the following Night, receives a Small penalty.
+3. The Sheriff who reveals their identity to a member of the Dark team on Day 1, and is killed on Night 1, receives a Small penalty.
 4. A member of the Dark team, or the Don, who reveals themselves as Sheriff during the final speech of the first-killed player, where that player turns out to be the real Sheriff, receives a Small penalty.
 5. A member of the Dark team, or the Don, who reveals themselves as Sheriff by presenting a Red check that matches the real Sheriff receives a Small penalty.
 6. The Sheriff who does not reveal their identity and leaves that identity as their stated priority receives a Big penalty, if the Red team lost the game.
@@ -1152,7 +1155,7 @@ Upon review of an appeal, the reviewing authority may:
 
 ### **15.4 Voting Phase Triggers**
 
-1. A Red player or the Sheriff who votes into another Red player or into themselves on the first Day receives a Big penalty, if the Red team lost the game.
+1. A Red player or the Sheriff who votes into another Red player or into themselves on Day 1 receives a Big penalty, if the Red team lost the game.
 2. A Red player or the Sheriff who votes into another Red player at the four-player vote receives a Big penalty.
 3. A Red player or the Sheriff who votes into another Red player or into themselves during an agreed split receives a Small penalty.
 4. A member of the Dark team, or the Don, who breaks an agreed split by voting into themselves or into another member of the Dark team receives a Small penalty.
@@ -1196,7 +1199,7 @@ Upon review of an appeal, the reviewing authority may:
 ### **16.2 Sheriff Sign**
 
 1. The Sheriff sign is made with the palm up, the thumb and index finger forming a round "OK" shape, and the remaining three fingers open.
-2. The Sheriff uses this sign to identify themselves to the Judge on the first Night (§9.3).
+2. The Sheriff uses this sign to identify themselves to the Judge on Night 0 (§9.3).
 3. The Judge uses this sign as the hand component of both Don check results (§16.4).
 
 ***
@@ -1204,7 +1207,7 @@ Upon review of an appeal, the reviewing authority may:
 ### **16.3 Don Sign**
 
 1. The Don sign is made with the palm up, the four fingers open, and the thumb tapping the ring finger.
-2. The Don uses this sign to identify themselves to the Dark team on the first Night (§4.2).
+2. The Don uses this sign to identify themselves to the Dark team on Night 0 (§4.2).
 
 ***
 

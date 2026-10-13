@@ -8,10 +8,14 @@ Zero-based Night numbering. Nights are now counted from zero: the Night of
 role distribution and the Dark team's agreement is **Night 0**, and the first
 shooting Night is **Night 1**. Days keep their numbering: Day 1 still follows
 the agreement Night, so Day N now sits between Night N−1 and Night N. The
-same Nights simply carry new numbers. The one point of substance is that
-Night 0 is now expressly excluded wherever the Rules count consecutive Nights
-(§8.5, §15.2.7, §15.2.13). v2026.3 did not settle this, so a club that counted
-the agreement Night will now reach the draw, or the penalty, one Night later.
+same Nights simply carry new numbers. Two points are of substance:
+
+- Night 0 is now expressly excluded wherever the Rules count Nights (§8.5,
+  §15.2.7, §15.2.13). v2026.3 did not settle this, so a club that counted the
+  agreement Night will now reach the draw one Night later.
+- §15.2.7 and §15.2.13 no longer require the missed Nights to be consecutive.
+  "Consecutive" was a wording error; any two shooting Nights during the game
+  without a shot, or without a check, now trigger the Big penalty.
 
 ### Mapping from v2026.3
 
@@ -47,11 +51,13 @@ uses numerals throughout.
   "like the first", which implied the two Nights opened differently.
 - **§8.5** — the three-Night draw now counts shooting Nights only; Night 0 is
   expressly excluded. v2026.3 did not say whether the agreement Night counted.
-- **§15.2.7 / §15.2.13** — the "two or more consecutive Nights" without shooting
-  or without a check now count Nights from Night 1 only. Night 0 has no shooting
-  and no checks, so it can no longer make up one of the two Nights.
 - **§11.4** — retitled from "'Second Night' Definition" to "Night and Day
   Numbering"; defines Night 0, Night 1, Day numbering, and ordinal words.
+- **§15.2.7 / §15.2.13** — rule fix. "Two or more consecutive Nights" without
+  shooting, or without a check, becomes "two or more shooting Nights during the
+  game", consecutive or not. The word "consecutive" was a wording error present
+  since the first edition. Only shooting Nights count (Night 1 onward); Night 0
+  has no shooting and no checks, so it can never make up one of the two Nights.
 - **§9.3, §15.2.1–3, §15.2.11–12, §15.3.3, §16.2.2, §16.3.2** — Night references
   restated as Night 0 / Night 1.
 - **§3.1.2.4, §5.4.2, §5.7.2.1, §8.8.1, §15.2.3, §15.2.12, §15.3.3, §15.4.1** —

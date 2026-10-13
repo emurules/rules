@@ -45,6 +45,7 @@ Everything not listed here works exactly as it does under FIIM. These are the on
 |---|---|---|
 | Sanctions after the result is decided | Mostly stop once the outcome is settled — only interfering with the leaving player's farewell speech still draws a foul | The Judge can keep sanctioning more broadly after the result is already decided |
 | Judge bonus pool ceiling (total) | Can exceed 3.5 points with SK sign-off | Capped at 3.5 with Head Judge approval — no further escalation |
+| Sheriff not checking for two or more Nights (Big penalty) | Applies even after every Dark player has been identified | No penalty for Nights after the Sheriff's checks (alone or with the count of players left) already establish every remaining player's team — the same exception that already applies to a single missed check |
 | Appeals | Can be filed as a protocol note or a written protest; a judge-conduct complaint is always available | Written appeals only; judge-conduct complaints are conditional on the tournament's own regulations |
 
 EMU also writes its official gestures out in words (PART XVI) where FIIM gives them

@@ -1,6 +1,6 @@
 # EMU Rules
 
-> **v2026.4 Edition**
+> **v2026.5 Edition**
 
 This text is the sole and complete source of the Rules. It admits no supplementary commentary, no separate committee interpretations, and no clarifications maintained elsewhere. Any ambiguity that a future edition must resolve is to be resolved within this text, under a new version number, and not in a separate document.
 
@@ -510,7 +510,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **8.4 Speech Modifications After Accumulation of Warnings**
 
-1. The speech rights and restrictions of a player who has accumulated three Warnings — including the right to speak in a re-vote and the reduction to thirty seconds where only three or four players remain at the table — are governed by §12.4.
+1. The speech rights and restrictions of a player who has accumulated three Warnings — including the loss of the next speech, the right to speak in a re-vote, and the thirty-second speech in place of the lost speech where only three or four players remain at the table — are governed by §12.4.
 
 ***
 
@@ -812,12 +812,15 @@ The grounds and consequences of each sanction are defined below.
 
 ### **12.4 Three Warnings: Consequences**
 
-1. A player who has received three Warnings loses the right to deliver further speeches during the current Day phase.
-2. The player retains the right to:
+1. A player who receives a third Warning loses their next speech in the Day discussion under §5.4. This is the first such speech that falls due after the third Warning, whether on the current Day or a later Day.
+2. Where the third Warning is given during the player's own speech, the player completes that speech in the normal way. That speech is not the lost speech; the player still loses their next speech under ¶1.
+3. Only that one speech is lost. From the following speech onward, the player speaks for the full time.
+4. When the turn for the lost speech arrives, the player may nominate a candidate under §5.6. The Judge allows the nomination and nothing more.
+5. Where only three or four players remain at the table when the lost speech falls due, the speech is not lost; it is reduced to thirty seconds and takes the place of the lost speech.
+6. The player retains the right to:
    * participate in voting,
-   * nominate candidates when permitted by procedure,
-   * speak in a re-vote situation as defined by these Rules.
-3. Where a player with three Warnings is scheduled to speak before voting at a table with three or four remaining players, the speaking time is reduced to thirty seconds.
+   * speak in a re-vote under §5.8,
+   * a final speech under §5.3, if eliminated.
 
 ***
 

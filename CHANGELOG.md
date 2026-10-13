@@ -2,6 +2,40 @@
 
 All notable changes to EMU Rules are documented here.
 
+## v2026.5 Edition
+
+The three-Warning speech penalty is restated. Previously §12.4 removed
+"further speeches during the current Day phase", which cost nothing to a
+player warned after their own speech. The player now loses exactly one
+speech: the next discussion speech that falls due, on the current Day or a
+later one.
+
+### Changes
+
+- **§12.4** — rule fix, restated in full:
+  - ¶1, ¶3: the lost speech is the first discussion speech due after the
+    third Warning, today or on a later Day; only that one speech is lost.
+  - ¶2 (new): a third Warning given during the player's own speech does not
+    cut that speech short; the player finishes it, and the next speech is
+    lost.
+  - ¶4: in the slot of the lost speech the player may still nominate a
+    candidate, and nothing more.
+  - ¶5: with three or four players at the table, the speech is shortened to
+    thirty seconds instead of lost, and that shortened speech counts as the
+    lost one.
+  - ¶6: voting, re-vote speech (§5.8) and final speech (§5.3) are unaffected.
+
+  Example: a player speaks in seat order on Day 2, then receives a third
+  Warning later in the same discussion. They have no further speech that
+  Day, so the lost speech is their Day 3 speech. On Day 4 they speak for the
+  full minute again. Had the third Warning come during their own Day 2
+  speech, they would have finished that speech as usual, and the Day 3 speech
+  would still be lost.
+- **§8.4.1** — summary updated to match §12.4.
+
+Apart from §12.4, which is restated in full, no sections or paragraphs are
+renumbered.
+
 ## v2026.4 Edition
 
 Zero-based Night numbering. Nights are now counted from zero: the Night of

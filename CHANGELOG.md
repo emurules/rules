@@ -16,9 +16,11 @@ same Nights simply carry new numbers. Three points are of substance:
 - §15.2.7 and §15.2.13 no longer require the missed Nights to be consecutive.
   "Consecutive" was a wording error; any two shooting Nights during the game
   without a shot, or without a check, now trigger the Big penalty.
-- §15.2.13 gains the endgame exception §15.2.10 already had: once the entire
-  Dark team has been identified, a Sheriff who stops checking is not penalised
-  for the Nights that follow.
+- The Sheriff's endgame exception is defined and extended. §15.2.10 now
+  defines when "the entire Dark team has been identified", including where the
+  last Dark player can be deduced from the Sheriff's checks and the number of
+  players left. §15.2.13 gains the same exception: once that point is reached,
+  a Sheriff who stops checking is not penalised for the Nights that follow.
 
 ### Mapping from v2026.3
 
@@ -67,7 +69,8 @@ uses numerals throughout.
   could tell the Sheriff anything new. This covers, for instance, a Sheriff who
   has checked all three Dark players, and a table of four (the Sheriff, two
   checked Reds, one unchecked player) where the unchecked player can only be
-  Dark.
+  Dark. A closing sentence separates this test, which concerns the Sheriff's
+  own knowledge, from "certainly identified" at the table under §11.10.
 - **§15.2.13** — new endgame exception, using the §15.2.10 definition: a Night
   that falls after the entire Dark team has been identified is not counted.
   With nothing left to find, the Sheriff has no reason to keep checking. Missed

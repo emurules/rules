@@ -147,7 +147,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 1. The Night phase, like every other phase, proceeds under the Judge's control.
 2. No action may be taken during the Night phase unless called for by the Judge; players act only when so instructed.
-3. Nights are numbered from zero (§11.4). Night 0 is reserved for role distribution and the Dark team's agreement (§2.2, §4.2); it includes no shooting and no checks.
+3. Nights are numbered from zero (§11.4). Night 0 is reserved for role distribution, the Dark team's agreement, and the Sheriff's identification (§2.2, §4.2); it includes no shooting and no checks.
 4. From Night 1 onward, Night actions follow the sequence set out in these Rules.
 5. The Night phase gives way to the Day phase only once the Judge so announces.
 6. Every Night phase begins when the Judge announces: "Night falls." The phrase marks the start of a Night phase and does not identify any particular Night.
@@ -1122,13 +1122,13 @@ Upon review of an appeal, the reviewing authority may:
 4. The Don who does not wake for the Sheriff search, does not make a check, or checks the same player twice receives a Small penalty, if the Sheriff had not yet been identified by the Dark team.
 5. A member of the Dark team, or the Don, who misses when the shot target was clearly assigned receives a Small penalty.
 6. A member of the Dark team, or the Don, who was assigned to call the shot target and did not do so, or did so unclearly, receives a Small penalty, if the omission led to a misfire.
-7. A member of the Dark team, or the Don, who does not shoot for two or more consecutive Nights, where this is a failure to shoot rather than a misfire, receives a Big penalty.
+7. A member of the Dark team, or the Don, who does not shoot for two or more consecutive shooting Nights (Night 1 onward; Night 0 is not counted), where this is a failure to shoot rather than a misfire, receives a Big penalty.
 8. A member of the Dark team, or the Don, who misses a shot that was clearly assigned and that would otherwise have immediately produced victory for the Dark team receives a Big penalty.
 9. A member of the Dark team, or the Don, whose shooting decisions lead to a mathematical loss for the Dark team receives a Big penalty. The same applies to the Don whose Night checks lead to a mathematical loss for the Dark team.
 10. The Sheriff who does not wake to check, does not make a check, repeats a previous check, or checks a player already eliminated receives a Small penalty, except where the entire Dark team has already been identified.
 11. The Sheriff who uses the check on Night 1 on a Red player who had been clearly designated for elimination that Night receives a Small penalty, if the Red team lost the game.
 12. The Sheriff who uses the check on Night 1 on a player who had openly claimed to be the Sheriff on Day 1 receives a Small penalty, if the Red team lost the game.
-13. The Sheriff who does not check for two or more consecutive Nights receives a Big penalty.
+13. The Sheriff who does not check for two or more consecutive Nights on which checks take place (Night 1 onward; Night 0 is not counted) receives a Big penalty.
 14. The Sheriff who does not check in a situation where any check would have guaranteed a mathematical victory for the Red team receives a Big penalty.
 15. A Red player or the Sheriff, who is first-killed and leaves a will prioritising an incorrect version of the game, receives a Small penalty.
 

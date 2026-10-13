@@ -8,7 +8,7 @@ Zero-based Night numbering. Nights are now counted from zero: the Night of
 role distribution and the Dark team's agreement is **Night 0**, and the first
 shooting Night is **Night 1**. Days keep their numbering: Day 1 still follows
 the agreement Night, so Day N now sits between Night N−1 and Night N. The
-same Nights simply carry new numbers. Two points are of substance:
+same Nights simply carry new numbers. Three points are of substance:
 
 - Night 0 is now expressly excluded wherever the Rules count Nights (§8.5,
   §15.2.7, §15.2.13). v2026.3 did not settle this, so a club that counted the
@@ -16,6 +16,9 @@ same Nights simply carry new numbers. Two points are of substance:
 - §15.2.7 and §15.2.13 no longer require the missed Nights to be consecutive.
   "Consecutive" was a wording error; any two shooting Nights during the game
   without a shot, or without a check, now trigger the Big penalty.
+- §15.2.13 gains the endgame exception §15.2.10 already had: once the entire
+  Dark team has been identified, a Sheriff who stops checking is not penalised
+  for the Nights that follow.
 
 ### Mapping from v2026.3
 
@@ -58,6 +61,17 @@ uses numerals throughout.
   game", consecutive or not. The word "consecutive" was a wording error present
   since the first edition. Only shooting Nights count (Night 1 onward); Night 0
   has no shooting and no checks, so it can never make up one of the two Nights.
+- **§15.2.10** — "the entire Dark team has been identified" is now defined: the
+  Sheriff's previous checks, alone or with the number of players left at the
+  table, already establish every remaining player's team, so no further check
+  could tell the Sheriff anything new. This covers, for instance, a Sheriff who
+  has checked all three Dark players, and a table of four (the Sheriff, two
+  checked Reds, one unchecked player) where the unchecked player can only be
+  Dark.
+- **§15.2.13** — new endgame exception, using the §15.2.10 definition: a Night
+  that falls after the entire Dark team has been identified is not counted.
+  With nothing left to find, the Sheriff has no reason to keep checking. Missed
+  checks before that point still count.
 - **§9.3, §15.2.1–3, §15.2.11–12, §15.3.3, §16.2.2, §16.3.2** — Night references
   restated as Night 0 / Night 1.
 - **§3.1.2.4, §5.4.2, §5.7.2.1, §8.8.1, §15.2.3, §15.2.12, §15.3.3, §15.4.1** —

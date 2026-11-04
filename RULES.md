@@ -1,6 +1,6 @@
 # EMU Rules
 
-> **v2026.5 Edition**
+> **v2026.6 Edition**
 
 This text is the sole and complete source of the Rules. It admits no supplementary commentary, no separate committee interpretations, and no clarifications maintained elsewhere. Any ambiguity that a future edition must resolve is to be resolved within this text, under a new version number, and not in a separate document.
 
@@ -104,6 +104,9 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 1. A mask is assigned to every seat.
 2. A player wishing to wear their own mask instead of the one assigned to the seat must first obtain the Judge's approval.
+3. A mask is a blindfold: an opaque eye cover, worn on an elastic band, that covers both eyes completely and leaves no gap around them.
+4. A mask must fit the player wearing it. A mask that does not fit, or that leaves a gap around the eyes, may not be used.
+5. A mask must stay in place by its band alone. While it is worn, the player must not hold it or press it to the face by hand (§4.1.7).
 
 ***
 
@@ -156,11 +159,11 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **3.1.2 Day Phase**
 
-1. The Day phase begins the moment the Judge so announces.
+1. The Day phase begins the moment the Judge announces it with the fixed phrase set out in §5.1.1.
 2. During the Day phase, players discuss the game and nominate candidates for the vote.
 3. Speaking order follows the seat numbers around the table.
 4. Player No. 1 opens the speeches on Day 1.
-5. On each subsequent Day, the speaking order resumes from the seat following the player who opened the previous Day's speeches.
+5. On each subsequent Day, the speaking order resumes from the next player still at the table, in seat order, following the seat of the player who opened the previous Day's speeches.
 6. Each player is allotted one minute to speak, inclusive of any nomination.
 7. The Day phase concludes with a vote, conducted in accordance with the established procedure.
 
@@ -193,7 +196,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 7. A player must not touch the mask during the Night phase unless the Judge directs otherwise.
 8. A breach of any of these Night behaviour requirements is subject to disciplinary consequences under these Rules.
 
-> _These requirements are suspended only during the periods of "Relaxed Seating" expressly defined in these Rules._
+> _These requirements are suspended only during the periods of "Relaxed Seating" expressly defined in these Rules: the interval after the Sheriff's identification on Night 0 (§4.2.10–12) and a technical pause (§4.8)._
 
 ***
 
@@ -207,8 +210,8 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 6. This process, comprising both identification and the establishment of the order, must be completed within one minute.
 7. Upon expiry of that minute, the Judge announces: "Mafia falls asleep."
 8. Masks are put back on.
-9. The Judge then instructs the Sheriff to identify themselves, likewise in silence, using the official gesture defined in these Rules (PART XVI).
-10. Once the Sheriff has done so, the Judge waits a further thirty seconds before proceeding.
+9. The Judge then announces: "Sheriff can show their sign." The Sheriff may identify themselves, likewise in silence and without removing the mask, using the official gesture defined in these Rules (PART XVI). No penalty applies to a Sheriff who does not.
+10. Once the Sheriff has done so, or has had the opportunity to do so, the Judge waits a further thirty seconds before proceeding.
 11. Throughout that interval, all players observe **Relaxed Seating**: the Night behaviour requirements continue to apply, except that hands need not be crossed over the shoulders.
 12. During Relaxed Seating, a player's hands must instead remain visible above the table.
 
@@ -224,19 +227,20 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 6. An elimination results only if every Dark player fires at the same moment, that is, all mime firing on the same seat number.
 7. Any discrepancy, whether a Dark player firing on a different number than the rest, firing on more than one number, or not firing at all, results in a misfire.
 8. In the event of a misfire, no player is eliminated during that Night.
-9. Once the shooting is complete, the Judge concludes it with: "Mafia falls asleep."
-10. The Dark players lower their hands and resume the standard Night position.
+9. Once the shooting is complete, the Judge concludes it with: "Mafia lower their pistols and fall asleep."
+10. At that call, the Dark players lower their hands and resume the standard Night position.
 
 ***
 
 ### **4.4 Don's Night Action (Finding Sheriff)**
 
-1. The Judge announces: "Don wakes and is looking for the Sheriff."
+1. The Judge announces: "Don wakes and does their check."
 2. The Don removes their mask and indicates one seat number using their fingers.
 3. The Don has no more than ten seconds to make this check.
 4. The Judge responds with the prescribed head movement together with the official gesture set out in these Rules (PART XVI), confirming or ruling out that the indicated player is the Sheriff.
 5. No word is spoken.
 6. The Judge then announces: "Don falls asleep."
+7. The Judge makes the calls in paragraphs 1 and 6 on every Night from Night 1 onward, including after the Don has left the game, and allows the time in paragraph 3 to pass. A player who wakes on this call without being the Don falls under §12.7.6.
 
 ***
 
@@ -249,14 +253,15 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 5. The Sheriff check result carries no head movement; the hand gesture alone conveys it.
 6. No word is spoken.
 7. The Judge then announces: "Sheriff falls asleep."
+8. The Judge makes the calls in paragraphs 1 and 7 on every Night from Night 1 onward, including after the Sheriff has left the game, and allows the time in paragraph 3 to pass. A player who wakes on this call without being the Sheriff falls under §12.7.6.
 
 ***
 
 ### **4.6 Best Move (First-Killed Player)**
 
-1. A player who is first-killed is entitled to make a Best Move. This right attaches to whichever player is first eliminated by a Night shot, whatever Night that occurs on; an intervening misfire does not extinguish it (see §11.11), and §8.8 states the one exception.
+1. A player who is first-killed is entitled to make a Best Move. This right attaches to whichever player is first eliminated by a Night shot, whatever Night that occurs on (§11.11), subject to the exception in §8.8.
 2. The Judge announces: "Everyone continue sleeping and staying in the night position, only one player has been killed during the night and they can do their best move. Player No. \_\_, you have been killed. Wake up and call only three numbers and nothing else. You have 20 seconds to do so."
-3. The player removes their mask and states aloud three seat numbers believed to belong to the Dark team.
+3. The player removes their mask and states aloud the seat numbers, up to three, of the players they believe to belong to the Dark team. The player may state only seat numbers.
 4. Twenty seconds is the maximum time permitted to do so.
 5. The Judge repeats the numbers and confirms: "Accepted."
 6. If the player states anything beyond the three numbers, including additional information or a remark directed at another player, only the numbers stated before that point remain valid. This provision concerns only what stands as information at the table and does not affect eligibility for bonus points; see §13.3.6.
@@ -280,8 +285,8 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **4.8 Technical Pause During Day**
 
-1. Where a technical pause is called during the Day phase, the Night behaviour requirements apply for its duration.
-2. Players must remain silent and comply with the Night behaviour requirements until the pause is lifted.
+1. Where a technical pause is called during the Day phase, the Night behaviour requirements apply for its duration, except that Relaxed Seating (§4.2.11–12) applies.
+2. Players must put on their masks, remain silent and comply with those requirements until the pause is lifted.
 
 ***
 
@@ -291,7 +296,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **5.1 Opening of the Day**
 
-1. The Day phase begins the moment the Judge so announces.
+1. The Judge opens the Day with the fixed phrase: "Good morning." The Day phase begins at that phrase.
 2. The Judge reports immediately any event that occurred during the Night.
 
 ***
@@ -317,7 +322,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 1. During the Day phase, players speak in numerical seat order.
 2. On Day 1, speeches begin with Player No. 1.
-3. On each subsequent Day, speeches begin with the next seat number following the player who started the previous Day.
+3. On each subsequent Day, speeches begin with the next player still at the table, in seat order, following the seat of the player who opened the previous Day.
 4. Each player is allocated one minute for speech.
 5. The time allocated for speech includes time used for nomination of candidates.
 
@@ -328,6 +333,9 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 1. Players may speak only during their allocated speaking time.
 2. Players may not interrupt other players.
 3. Players must not violate the behavioural restrictions established by these Rules.
+4. During the game, players address one another by seat number or by nickname, and address the Judge as "Mr Judge" or "Ms Judge", or as "Mr Host" or "Ms Host".
+5. A player ends their speech with the word "Pass" or the words "Thank you".
+6. The Judge corrects a breach of paragraph 4 or 5. A repeated breach may draw a Notice (§12.10).
 
 ***
 
@@ -335,8 +343,9 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 1. During their speech, a player may nominate one candidate for elimination.
 2. A nomination must be clearly stated by indicating the seat number of the nominated player.
-3. A player may nominate only one candidate during their speech.
+3. A player may nominate only one candidate per Day, and only during their Day discussion speech under §5.4, including the turn of a lost speech under §12.4.4. No nomination may be made in a speech under §5.8 or in a final speech under §5.3.
 4. A nomination may not be withdrawn.
+5. The Judge acknowledges each nomination that complies with this Section with the word: "Accepted." A nomination that does not comply is not acknowledged and does not stand.
 
 ***
 
@@ -349,13 +358,13 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 1. Upon conclusion of discussion for the Day, the nominated players are put to a vote.
 2. The Judge reads out each nominated seat number individually.
 3. As each number is called, players must respond immediately by placing a closed fist on the table, thumb pointing upward.
-4. Approximately 1.5 seconds is allowed for each vote.
+4. Approximately 1.5 seconds is allowed for each vote. The Judge closes the vote on each candidate with the word "Stop" or the words "Thank you" (the **end-of-vote signal**).
 5. The fist must remain on the table until the Judge announces the number of votes received.
 6. A player may vote for only one candidate.
 7. A player may not abstain from voting.
 8. Where a player fails to vote, that player's vote is counted automatically against the last-nominated player.
 9. A vote must be clear and unambiguous; partial gestures are not counted.
-10. Withdrawal of the hand before the Judge says "Stop" or "Thank you" does not invalidate the vote.
+10. Withdrawal of the hand before the end-of-vote signal under paragraph 4 does not invalidate the vote.
 11. The player receiving the highest number of votes leaves the game.
 
 ***
@@ -363,6 +372,13 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 #### **5.7.2 Day 1 Special Case: Single Nominee → No Vote**
 
 1. Where only one candidate is nominated on Day 1, no vote is conducted.
+2. The Day ends with no player eliminated.
+
+***
+
+#### **5.7.3 No Nominations**
+
+1. Where no candidate is nominated during the Day, no vote is conducted.
 2. The Day ends with no player eliminated.
 
 ***
@@ -375,7 +391,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 4. If the re-vote results in a tie among the same players who went into it, the Judge puts to the table the question: "Who is in favour of all players currently tied leaving the table?"
 5. If the majority votes in favour, all players currently tied leave the game.
 6. If the majority votes against, or the votes are equally divided, no player leaves the game and the Judge announces the Night phase.
-7. The collective-elimination restrictions in §8.6 apply to this procedure: a vote to remove every player at the table is not conducted, nor is a vote to remove three players where nine remain.
+7. The collective-elimination restrictions in §8.6 apply to this procedure: a vote to remove every player at the table is not conducted, nor is a vote to remove three players where nine remain. Where the question under paragraph 4 would be such a vote, it is not put, no player leaves the game, and the Judge announces the Night phase.
 
 ***
 
@@ -417,7 +433,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 1. Parity is the situation in which the number of Dark players remaining at the table is equal to the number of Red players.
 2. When parity occurs, the game immediately ends with victory of the Dark team.
-3. No further speeches, voting, or Night actions are conducted once victory conditions are met.
+3. No further speeches, voting, or Night actions are conducted once victory conditions are met, except the final speech of the leaving player under §5.3.3 and §8.7.1, which follows the announcement under paragraph 4.
 4. The Judge announces the result of the game immediately upon determination of a win condition.
 5. For the purpose of every win-condition check in this Part, a player's elimination takes effect when the vote result or Night kill is determined (§1.3.4, §4.7.3), not when the player physically leaves the table or gives a final speech.
 
@@ -473,8 +489,9 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 ### **7.6 Authority in Technical Situations**
 
 1. The declaration of a technical pause, where the situation so requires, is within the Judge's authority.
-2. The Night behaviour requirements apply for the duration of that pause.
+2. The Night behaviour requirements apply for the duration of that pause, in Relaxed Seating (§4.8.1).
 3. Where these Rules are silent, the Judge determines the applicable procedure, provided that the determination does not contradict any existing rule.
+4. Where the Judge makes a procedural error during the game, the Judge corrects it as soon as it is noticed, provided that the game can be restored to the state it would have reached without the error. Where it cannot, the game continues from its current state, and the Judge records the error in the game protocol for review under PART XIV.
 
 ***
 
@@ -537,7 +554,8 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **8.8 Restriction on Best Move Eligibility**
 
-1. A player who is first-killed does not have the right to perform a Best Move where, as a result of the voting on Day 1, two or more players left the game.
+1. A player who is first-killed has the right to perform a Best Move only where that player is the first player to leave the game.
+2. Where any other player has already left the game, whether by the result of a vote, by removal under PART XII, or for any other reason, the first-killed player has no right to a Best Move. That player remains first-killed for all other purposes of these Rules (§11.11.3).
 
 ***
 
@@ -551,6 +569,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 2. The gestures defined in these Rules are the only official gestures permitted for transmitting Night information. Each is described in PART XVI.
 3. No verbal explanation or clarification of Night results is permitted unless expressly provided by these Rules.
 4. Any use of non-official gestures or signals intended to transmit game information constitutes a violation of the Rules.
+5. No Night call made by the Judge names a role other than the role of the players being woken by that call.
 
 ***
 
@@ -568,7 +587,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **9.3 Sheriff Identification (Night 0)**
 
-1. During Night 0, upon instruction of the Judge, the Sheriff indicates themselves by the official gesture established by these Rules (PART XVI).
+1. During Night 0, upon the Judge's call under §4.2.9, the Sheriff may indicate themselves by the official gesture established by these Rules (PART XVI), without removing the mask.
 2. This gesture is visible only to the Judge.
 3. No verbal confirmation of the Sheriff's identity is permitted.
 
@@ -576,7 +595,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **9.4 Don Check Result Gesture**
 
-1. When the Judge announces: "Don wakes and is looking for the Sheriff," the Don indicates the number of one player using fingers.
+1. When the Judge announces: "Don wakes and does their check," the Don indicates the number of one player using fingers.
 2. The Judge communicates the result exclusively through the official gestures established by these Rules (PART XVI).
 3. Where the indicated player is the Sheriff, the Judge simultaneously shows:
    * the characteristic affirmative head movement prescribed by the Rules, and
@@ -683,6 +702,8 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 4. **Parity** — the situation in which the number of Dark players remaining at the table is equal to the number of Red players.
 5. **Misfire** — a Night situation in which the Dark team fails to unanimously indicate the same target during the shooting procedure, resulting in no elimination.
 6. **Re-vote** — a repeated voting procedure conducted among tied candidates in accordance with these Rules.
+7. **Mask** — the blindfold described in §2.3.1. To **put on** the mask is to cover both eyes with it; to **remove** the mask is to uncover the eyes, whether or not the mask is taken off the head.
+8. **Rating distance** — the series of games over which a tournament or rating table is accumulated, as set by the event's regulations. A rating distance continues where the number of participants falls while the number of tables stays the same. Where the number of participants otherwise changes at a stage of a tournament, each such stage is a separate rating distance.
 
 ***
 
@@ -726,9 +747,9 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ***
 
-### **11.6 "PPK / Team Defeat Assignment" Definition**
+### **11.6 "PPK / Victory of the Opposite Team" Definition**
 
-1. **PPK (Team Defeat Assignment)** is a disciplinary measure whereby victory is assigned to the opposing team as a consequence of a severe rule violation.
+1. **PPK (Victory of the Opposite Team)** is a disciplinary measure whereby victory is assigned to the opposing team as a consequence of a severe rule violation.
 2. PPK is not a natural win condition but a sanction imposed in accordance with PART XII — FULL DISCIPLINARY REGULATION.
 3. The rating and scoring consequences of PPK are defined in PART XIII — TOURNAMENT SCORING AND RATING SYSTEM.
 
@@ -768,8 +789,8 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 ### **11.11 "First-Killed" Definition**
 
 1. A player is **first-killed** where they are the first player in the game to be eliminated by a Night kill. The Night on which this occurs is not material.
-2. A misfire eliminates no one. Where a Night misfires, first-killed status passes to whichever player, if any, is eliminated by the next Night that produces a successful kill.
-3. Best Move eligibility under §4.6, Compensation Points under §13.8, and the rating tie-break under §13.10 depend on whether a player is first-killed. §8.8 sets out a further restriction on Best Move eligibility specifically.
+2. A misfire eliminates no one, and so makes no player first-killed.
+3. Best Move eligibility under §4.6, Compensation Points under §13.8, and the rating tie-break under §13.10 depend on whether a player is first-killed. §8.8 sets out a further restriction on Best Move eligibility only: a first-killed player who is not the first player to leave the game has no Best Move, but remains first-killed for Compensation Points and the rating tie-break.
 
 ***
 
@@ -794,7 +815,7 @@ The following types of sanctions may be imposed:
 1. **Notice**
 2. **Warning**
 3. **Disqualifying Foul**
-4. **Team Defeat Assignment (PPK)**
+4. **Victory of the Opposite Team (PPK)**
 
 The grounds and consequences of each sanction are defined below.
 
@@ -806,7 +827,8 @@ The grounds and consequences of each sanction are defined below.
 2. Upon receipt of a third Warning, special restrictions apply in accordance with §12.4.
 3. Upon receipt of a fourth Warning, the player is removed from the game in accordance with §12.5.
 4. A Disqualifying Foul results in immediate removal from the game regardless of the number of previously received Warnings.
-5. Disciplinary sanctions remain valid even if imposed during a decisive situation.
+5. Disciplinary sanctions remain valid even if imposed during a decisive situation. Sanctions after victory has been determined are governed by §12.9.
+6. A player who is removed from the game and who then commits a ground for PPK receives both the Removal penalty (§13.7.1) and the PPK penalty (§13.7.2).
 
 ***
 
@@ -844,10 +866,14 @@ The following actions draw a Warning:
 5. Touching other players during the Day phase.
 6. Violating the voting procedure.
 7. Disputing with the Judge during the game.
-8. Failure to comply with Night behavioural requirements.
+8. Failure to comply with the Night behaviour requirements of posture and conduct under §4.1.2–4.1.4 and §4.1.6, and eating or drinking during the Night phase.
 9. Removing or improperly handling the mask without instruction during Relaxed Seating or the Day phase.
 10. Concealing speech information by using a language other than the designated language of the game.
-11. Other minor procedural violations expressly defined by these Rules.
+11. Other conduct that breaches these Rules and is of comparable weight to the grounds in this Section, at the Judge's determination.
+12. Knocking on the table, or unethical conduct toward players or Judges.
+13. Gesturing or campaigning during the vote.
+14. Refusing to remove the mask when the Judge so requests.
+15. Involuntary peeking during the Night phase.
 
 ***
 
@@ -858,26 +884,33 @@ The following actions draw a Disqualifying Foul:
 1. Intentional peeking during the Night phase.
 2. Using non-game methods to obtain information.
 3. Communicating Night information through unauthorized gestures or signals.
-4. Revealing role information obtained during the Night by prohibited means.
+4. Revealing role information obtained during the Night by prohibited means, including by peeking or by hearing another player.
 5. Use of offensive or abusive language directed at players, the Judge, tournament officials, or spectators.
-6. Intentional violation of the Night procedure.
+6. Intentional violation of the Night procedure, that is, acting during the Night other than on the Judge's call (§3.1.1.2), including waking on a call addressed to another player.
 7. Contact with the mask during the Night phase where the eyes are, or could thereby be, exposed (see §4.1.7).
 8. Any action that materially compromises the integrity of the game.
 9. Appealing to religious, ethical, or non-game values to prove one's role.
 10. Use of obscene language.
 11. Use of the word "suicide" in any form during the game.
 12. Leaving the gaming table without the Judge's permission.
+13. Talking or making noise during the Night phase.
+14. Touching another player during the Night phase.
+15. Passing unique Day information to another player by a whisper hidden from the Judge and the rest of the table.
+16. An attempt to gain a non-game advantage in order to prove one's role or to influence the vote.
+17. An involuntary emotional response that continues to disrupt play after a Notice (§12.11).
 
 ***
 
-### **12.8 Team Defeat Assignment (PPK)**
+### **12.8 Victory of the Opposite Team (PPK)**
 
-1. Team Defeat Assignment (PPK) is imposed in cases of severe violations affecting the competitive integrity of the game.
+1. Victory of the Opposite Team (PPK) is imposed in cases of severe violations affecting the competitive integrity of the game.
 2. PPK results in assignment of victory to the opposing team.
 3. Grounds for PPK include:
    * use of oaths, bets, or external guarantees of alignment,
-   * blackmail or coercion,
-   * intentional disclosure of unique Night information outside permitted procedure,
+   * blackmail, threats, coercion, or bribery,
+   * prompts from the audience,
+   * a player who has revealed themselves as Sheriff proving that role by unique Night observations, that is, actions of players or events that could be seen during a check,
+   * committing a violation under §12.7.5, §12.7.9, §12.7.15, or §12.7.16 after the Judge has announced the player's Night kill, or after the player has become the leaving player by the result of a vote,
    * other grave violations defined by these Rules.
 4. The rating consequences of PPK are defined in PART XIII.
 
@@ -886,8 +919,9 @@ The following actions draw a Disqualifying Foul:
 ### **12.9 Timing and Endgame Exceptions**
 
 1. Where a violation occurs after a decisive vote or decisive Night elimination that has already determined victory, the result of the game does not change.
-2. Disciplinary sanctions may still be imposed after determination of victory.
-3. A disqualified player receives the penalty established for removal even where the game result remains unchanged.
+2. After determination of victory, no Disqualifying Foul and no PPK is imposed, except a Disqualifying Foul under §12.7.5, §12.7.10, §12.7.11, or §12.7.12.
+3. After determination of victory, a fourth Warning may be given only for an obvious attempt to disrupt the final speech of the leaving player, and only after the Judge has first given that player a Notice for it.
+4. A player disqualified under paragraph 2 or 3 receives the penalty established for removal even though the game result remains unchanged.
 
 ***
 
@@ -902,8 +936,7 @@ The following actions draw a Disqualifying Foul:
 ### **12.11 Involuntary Emotional Response**
 
 1. An involuntary emotional response at the gaming table, including visible distress or crying, is not in itself a foul.
-2. The Judge may respond with a Notice and, where the response continues to disrupt play, with a Warning.
-3. Removal is reserved for the case where play genuinely cannot continue.
+2. The Judge may respond with a Notice and, where the response continues to disrupt play after that Notice, with a Disqualifying Foul (§12.7.17).
 
 ***
 
@@ -939,11 +972,11 @@ These penalties are deducted from the player's final rating score for the game.
 ### **13.3 Best Move Bonus Points**
 
 1. A player who is first-killed may perform a Best Move in accordance with PART IV.
-2. Where all three declared players are members of the Dark team, the player receives **+0.7 points**.
-3. Where two of the three declared players are members of the Dark team, the player receives **+0.5 points**.
+2. Where three of the stated seat numbers belong to members of the Dark team, the player receives **+0.7 points**.
+3. Where two of the stated seat numbers belong to members of the Dark team, the player receives **+0.5 points**. A Best Move is scored against three numbers; a number not stated within the time under §4.6.4 counts as incorrect, and the Best Move remains valid.
 4. The Best Move declaration must be recorded in the game protocol before the beginning of Day speeches.
 5. Declared seat numbers may not be changed after submission.
-6. Where the player discloses additional information beyond the permitted declaration, the Best Move is void **for scoring purposes**, meaning no bonus points are awarded, even if some of the named seats were correct. The partial declaration still stands as information under §4.6.6; this Section removes only the rating bonus.
+6. Where the player says anything other than seat numbers, including asking any other person, at the table or in the audience, for help in choosing them, the Best Move is void **for scoring purposes**, meaning no bonus points are awarded, even if some of the named seats were correct. The partial declaration still stands as information under §4.6.6; this Section removes only the rating bonus.
 
 ***
 
@@ -959,7 +992,7 @@ These penalties are deducted from the player's final rating score for the game.
 4. The Judge must not award bonus points to a player who:
    1. was eliminated during the Night phase and left instructions that led, or would have led, their own team to defeat;
    2. voted against the interest of their own team, unless that vote was part of an agreed split or was made at the explicit direction of a credibly Red player;
-   3. was subject to a Team Defeat Assignment (PPK) in that game (see §13.7.2);
+   3. was subject to a Victory of the Opposite Team (PPK) in that game (see §13.7.2);
    4. was still seated at the table at the moment a draw was declared (see §13.1.3).
 5. Despite paragraph 4.1 or 4.2, the Judge may award bonus points with the approval of the EMU Judging Committee.
 6. Once the Judge has submitted the game protocol, the bonus points recorded in it may not be changed, except with the approval of the Head Judge.
@@ -985,7 +1018,7 @@ These penalties are deducted from the player's final rating score for the game.
 ### **13.7 Removal Penalty and PPK Penalty Rules**
 
 1. A player removed from the game due to receipt of a fourth Warning or Disqualifying Foul receives a **Removal penalty of 0.8 points**.
-2. A player subject to Team Defeat Assignment (PPK) receives a **PPK penalty of 1.0 point**.
+2. A player subject to Victory of the Opposite Team (PPK) receives a **PPK penalty of 1.0 point**.
 3. The imposition of PPK results in assignment of victory to the opposing team.
 4. Where a rematch is ordered under §14.5, the Head Judge may decide to carry the removal penalty into the rematch, but only where the removal was under §12.7.5 (offensive or abusive language) or §12.7.10 (use of obscene language).
 
@@ -993,11 +1026,11 @@ These penalties are deducted from the player's final rating score for the game.
 
 ### **13.8 Compensation Points (Ci)**
 
-1. Compensation points (Ci) are awarded in specific situations where a player is first-killed.
+1. Compensation points (Ci) are awarded to a player who is first-killed while playing as a Red player or the Sheriff, in a game that the Red team lost or that ended in a draw.
 2. The calculation of Ci is performed in accordance with the official formula established by tournament regulations:\
    **Ci = i × 0.5 / B if i ≤ B;**\
    **Ci = 0.5 if i > B;**\
-   where _**i**_ is the number of times the player was first-killed during the rating distance, and _**B**_ equals 40% (rounded to the nearest integer) of the number of games played on that distance.\
+   where _**i**_ is the number of times the player was first-killed under paragraph 1 during the rating distance (§11.1.8), and _**B**_ equals 40% (rounded to the nearest integer) of the number of games played on that distance.\
    Where fewer than four games have been played on the distance, **Ci** = 0.
 3. Compensation points are added to the player's final rating score for the game.
 
@@ -1114,6 +1147,7 @@ Upon review of an appeal, the reviewing authority may:
 7. With the approval of the Head Judge, a Small penalty otherwise due under this Part may be waived where the underlying action was tactically reasoned and led to a positive outcome for the player's team.
 8. With the approval of the EMU Judging Committee, a Big penalty otherwise due under this Part may be waived where its application would be manifestly unfair in light of the game situation.
 9. Where a Small penalty would otherwise apply to an action that was tactically reasoned and led to victory, the Judge does not also withhold bonus points under §13.4 for the same action; the Judge resolves the two consistently, ordinarily by waiving the penalty under paragraph 7.
+10. Where a single action meets more than one trigger in this Part, only the trigger carrying the highest value applies; the values of the triggers are not added together. Paragraph 3 continues to govern triggers arising from separate actions.
 
 ***
 
@@ -1145,7 +1179,11 @@ Upon review of an appeal, the reviewing authority may:
 4. A member of the Dark team, or the Don, who reveals themselves as Sheriff during the final speech of the first-killed player, where that player turns out to be the real Sheriff, receives a Small penalty.
 5. A member of the Dark team, or the Don, who reveals themselves as Sheriff by presenting a Red check that matches the real Sheriff receives a Small penalty.
 6. The Sheriff who does not reveal their identity and leaves that identity as their stated priority receives a Big penalty, if the Red team lost the game.
-7. The Sheriff who does not leave accurate check information, or leaves misleading priority information, receives a Big penalty, if the Red team lost the game.
+7. The Sheriff who does not leave accurate check information, or leaves misleading priority information, receives a Big penalty, if the Red team lost the game and any of the following occurred:
+   1. a player checked as Red, whose check was not named or was left among several players, was voted out;
+   2. a player checked as Dark, whose check was not named or was left among several players, did not leave the game;
+   3. a member of the Dark team among the players with whom a Red check was left did not leave the game;
+   4. the check information left as priority, wholly or partly inconsistent with the checks made, led to the Red team's defeat.
 8. A Red player, other than the Sheriff, who falsely claims to be the Sheriff and leaves that claim as their stated priority receives a Big penalty, if the Red team lost the game.
 9. A Red player or the Sheriff who states that they are a member of the Dark team and does not withdraw that statement before the vote receives a Big penalty, if voted out in the same round.
 10. A Red player or the Sheriff who publicly anchors to a version of the game that includes a member of the Dark team receives a Big penalty, if the commitment damaged the game for the Red team.

@@ -7,12 +7,21 @@ All notable changes to EMU Rules are documented here.
 A clarification and discipline pass. It settles points where the text was
 silent, ambiguous or inconsistent with itself, fixes the Judge's fixed
 phrases, and completes the lists of Warnings, Disqualifying Fouls and PPK
-grounds. Three changes are of substance:
+grounds. PPK is renamed **Victory of the Opposite Team (PPK)**, a change of
+label only. These changes are of substance:
 
-- Talking, making noise or touching another player during the Night is now a
-  Disqualifying Foul. It is no longer only a breach of Night behaviour.
+- Talking, deliberately making noise or touching another player during the
+  Night is now a Disqualifying Foul (§12.7.13–14). It is no longer only a
+  breach of Night behaviour.
+- New Disqualifying Fouls for whispering hidden Day information and for
+  seeking a non-game advantage (§12.7.15–16), and new PPK grounds (§12.8.3).
+- An involuntary emotional response that keeps disrupting play after a
+  Notice is a Disqualifying Foul; the Warning step is removed (§12.11).
 - Once victory is determined, most sanctions no longer apply (§12.9).
-- PPK is renamed **Victory of the Opposite Team (PPK)**.
+- The Best Move goes only to a first-killed player who is the first to leave
+  the game (§8.8).
+- One action meeting several penalty triggers draws only the highest
+  (§15.1.10).
 
 ### Fixed phrases and table procedure
 
@@ -21,9 +30,14 @@ grounds. Three changes are of substance:
 - **§4.2.9, §9.3.1** — on Night 0 the Judge says "Sheriff can show their
   sign." The Sheriff shows the sign without removing the mask. Showing it is
   optional, and no penalty applies if they do not.
+- **§4.2.1, §4.2.7, §4.3.2** — the Mafia calls are made plural throughout:
+  "Mafia wake up and get acquainted.", "Mafia fall asleep.", "Mafia go
+  hunting and raise their pistols."
 - **§4.3.9–10** — the shooting closes with "Mafia lower their pistols and fall
-  asleep.", the counterpart of "Raise their pistols". The Dark players lower
+  asleep.", the counterpart of the opening call in §4.3.2. The Dark players lower
   their hands at that call.
+- **§4.6.2** — the Judge's Best Move call is now "…call up to three numbers
+  and nothing else…", since one or two numbers are valid (see *Best Move*).
 - **§4.4.1, §9.4.1** — the Don's call is now "Don wakes and does their
   check." Naming the Sheriff in the Don's call had led the real Sheriff to
   open their eyes during the Don's check. New **§9.1.5**: no Night call names
@@ -34,7 +48,8 @@ grounds. Three changes are of substance:
   Night-procedure foul (§12.7.6).
 - **§4.8, §7.6.2, §4.1 note** — a technical pause is held masked, in Relaxed
   Seating: Night behaviour applies, but hands rest visibly on the table
-  instead of crossed over the shoulders.
+  instead of crossed over the shoulders. New **§4.8.3**: a breach during a
+  technical pause is sanctioned as if committed at Night.
 - **§5.5.4–6** (new) — players address one another by seat number or
   nickname, and the Judge as "Mr/Ms Judge" or "Mr/Ms Host". A speech ends
   with "Pass" or "Thank you". The Judge corrects a breach, and a repeated
@@ -74,9 +89,10 @@ grounds. Three changes are of substance:
 
 ### Best Move
 
-- **§4.6.3, §13.3.2–3, §13.3.6** — the player may state only seat numbers,
-  up to three. Anything else, including asking anyone for help in choosing,
-  voids the Best Move for scoring. Fewer than three numbers is still a valid
+- **§4.6.3, §4.6.6, §13.3.2–3, §13.3.6** — the player may state only seat
+  numbers, up to three. Anything else, including asking anyone for help in
+  choosing, voids the Best Move for scoring. As information at the table,
+  only the numbers, up to three, stated before anything else remain valid. Fewer than three numbers is still a valid
   Best Move: it is scored against three, and a number not stated counts as
   wrong.
 
@@ -120,7 +136,8 @@ grounds. Three changes are of substance:
     hearing).
   - ¶6 defines a Night-procedure violation: acting at Night other than on the
     Judge's call.
-  - New ¶13–17: talking or making noise at Night; touching another player at
+  - New ¶13–17: talking, or deliberately making noise, at Night (an
+    involuntary cough or sneeze is not a foul); touching another player at
     Night; whispering unique Day information hidden from the table; an
     attempt to gain a non-game advantage to prove a role or sway the vote; an
     involuntary emotional response that keeps disrupting play after a Notice.
@@ -136,9 +153,11 @@ grounds. Three changes are of substance:
   both the Removal and the PPK penalty. ¶5 now points to §12.9.
 - **§12.9** — restated. Once victory is determined, the result stands. No
   Disqualifying Foul or PPK is imposed then, except for offensive or abusive
-  language, obscene language, the word "suicide", or leaving the table. A
-  fourth Warning may be given only for an obvious attempt to disrupt the
-  leaving player's final speech, and only after a Notice.
+  language, obscene language, the word "suicide", or leaving the table.
+  ¶3 (the removal penalty still applies) keeps its number and now refers to
+  ¶2 and ¶4. New ¶4: Warnings may still be given, but a fourth Warning only
+  for an obvious attempt to disrupt the leaving player's final speech, and
+  only after a Notice.
 
   Example: the Red team wins by the vote on the last Dark player. During that
   player's final speech, another player talks over them. The Judge gives a
@@ -173,9 +192,9 @@ grounds. Three changes are of substance:
 ### Numbering
 
 No sections or paragraphs are renumbered. New items are appended to their
-lists: §5.5.4–6, §5.6.5, §5.7.3, §7.6.4, §8.8.2, §9.1.5, §11.1.7–8, §12.3.6,
-§12.6.12–15, §12.7.13–17, §12.9.4, §15.1.10, §4.4.7, §4.5.8 and
-§2.3.1.3–5. §12.11.3 is removed.
+lists: §2.3.1.3–5, §4.4.7, §4.5.8, §4.8.3, §5.5.4–6, §5.6.5, §5.7.3,
+§7.6.4, §8.8.2, §9.1.5, §11.1.7–8, §12.3.6, §12.6.12–15, §12.7.13–17,
+§12.9.4, §15.1.10 and §15.3.7.1–4. §12.11.3 is removed.
 
 ## v2026.5 Edition
 

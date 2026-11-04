@@ -202,13 +202,13 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 ### **4.2 Night 0 — Dark Team Agreement and Sheriff Identification**
 
-1. Once role distribution (§2.2) is complete, and within the same Night 0, the Judge announces: "Mafia wakes up and gets acquainted."
+1. Once role distribution (§2.2) is complete, and within the same Night 0, the Judge announces: "Mafia wake up and get acquainted."
 2. Every Dark player removes their mask and opens their eyes simultaneously.
 3. The Dark players identify one another in silence; no talking is permitted.
 4. Using the official gesture defined in these Rules (PART XVI), the Don identifies themselves to the rest of the Dark team.
 5. The Don also establishes the shooting order to be followed from Night 1 onward.
 6. This process, comprising both identification and the establishment of the order, must be completed within one minute.
-7. Upon expiry of that minute, the Judge announces: "Mafia falls asleep."
+7. Upon expiry of that minute, the Judge announces: "Mafia fall asleep."
 8. Masks are put back on.
 9. The Judge then announces: "Sheriff can show their sign." The Sheriff may identify themselves, likewise in silence and without removing the mask, using the official gesture defined in these Rules (PART XVI). No penalty applies to a Sheriff who does not.
 10. Once the Sheriff has done so, or has had the opportunity to do so, the Judge waits a further thirty seconds before proceeding.
@@ -220,7 +220,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 ### **4.3 Night 1 and Subsequent Nights — Dark Team Action (Shooting Procedure)**
 
 1. Each such Night, like every Night phase, opens with the Judge's announcement: "Night falls" (§3.1.1.6).
-2. Thereafter, the Judge continues with the announcement: "Mafia goes hunting. Raise their pistols."
+2. Thereafter, the Judge continues with the announcement: "Mafia go hunting and raise their pistols."
 3. Each Dark player raises a hand.
 4. Seat numbers are called out in order, from one to ten.
 5. Each Dark player mimes a firing motion with two fingers of a raised hand held high, timed to the instant their intended target's seat number is called. The target is identified by that timing alone; the direction the hand points is immaterial (see PART XVI).
@@ -260,11 +260,11 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 ### **4.6 Best Move (First-Killed Player)**
 
 1. A player who is first-killed is entitled to make a Best Move. This right attaches to whichever player is first eliminated by a Night shot, whatever Night that occurs on (§11.11), subject to the exception in §8.8.
-2. The Judge announces: "Everyone continue sleeping and staying in the night position, only one player has been killed during the night and they can do their best move. Player No. \_\_, you have been killed. Wake up and call only three numbers and nothing else. You have 20 seconds to do so."
+2. The Judge announces: "Everyone continue sleeping and staying in the night position, only one player has been killed during the night and they can do their best move. Player No. \_\_, you have been killed. Wake up and call up to three numbers and nothing else. You have 20 seconds to do so."
 3. The player removes their mask and states aloud the seat numbers, up to three, of the players they believe to belong to the Dark team. The player may state only seat numbers.
 4. Twenty seconds is the maximum time permitted to do so.
 5. The Judge repeats the numbers and confirms: "Accepted."
-6. If the player states anything beyond the three numbers, including additional information or a remark directed at another player, only the numbers stated before that point remain valid. This provision concerns only what stands as information at the table and does not affect eligibility for bonus points; see §13.3.6.
+6. If the player states anything other than seat numbers, or more than three numbers, including additional information or a remark directed at another player, only the numbers, up to three, stated before that point remain valid. This provision concerns only what stands as information at the table and does not affect eligibility for bonus points; see §13.3.6.
 7. Once stated, the numbers are final and may not be added to or altered.
 8. Upon completion of the Best Move, the player resumes the Night position, and the game proceeds to the Day phase.
 9. The player retains the right to a one-minute final speech when the Day phase begins.
@@ -287,6 +287,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 1. Where a technical pause is called during the Day phase, the Night behaviour requirements apply for its duration, except that Relaxed Seating (§4.2.11–12) applies.
 2. Players must put on their masks, remain silent and comply with those requirements until the pause is lifted.
+3. A breach of those requirements during a technical pause is sanctioned under PART XII as if committed during the Night phase.
 
 ***
 
@@ -893,7 +894,7 @@ The following actions draw a Disqualifying Foul:
 10. Use of obscene language.
 11. Use of the word "suicide" in any form during the game.
 12. Leaving the gaming table without the Judge's permission.
-13. Talking or making noise during the Night phase.
+13. Talking, or deliberately making noise, during the Night phase.
 14. Touching another player during the Night phase.
 15. Passing unique Day information to another player by a whisper hidden from the Judge and the rest of the table.
 16. An attempt to gain a non-game advantage in order to prove one's role or to influence the vote.
@@ -920,8 +921,8 @@ The following actions draw a Disqualifying Foul:
 
 1. Where a violation occurs after a decisive vote or decisive Night elimination that has already determined victory, the result of the game does not change.
 2. After determination of victory, no Disqualifying Foul and no PPK is imposed, except a Disqualifying Foul under §12.7.5, §12.7.10, §12.7.11, or §12.7.12.
-3. After determination of victory, a fourth Warning may be given only for an obvious attempt to disrupt the final speech of the leaving player, and only after the Judge has first given that player a Notice for it.
-4. A player disqualified under paragraph 2 or 3 receives the penalty established for removal even though the game result remains unchanged.
+3. A player removed under paragraph 2 or 4 receives the penalty established for removal even though the game result remains unchanged.
+4. After determination of victory, Warnings may still be given, but a fourth Warning may be given only for an obvious attempt to disrupt the final speech of the leaving player, and only after the Judge has first given that player a Notice for it.
 
 ***
 

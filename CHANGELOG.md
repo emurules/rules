@@ -10,14 +10,16 @@ phrases, and completes the lists of Warnings, Disqualifying Fouls and PPK
 grounds. PPK is renamed **Victory of the Opposite Team (PPK)**, a change of
 label only. These changes are of substance:
 
-- Acting at Night without the Judge's call is a Disqualifying Foul whether
+- At Night, a breach is a Disqualifying Foul or nothing: no Warning is
+  given, then or the next Day, so that no Night information is revealed
+  (new §12.12). During Relaxed Seating and a technical pause, minor breaches
+  draw only a general Notice to the whole table.
+- A Night action without the Judge's call is a Disqualifying Foul whether
   or not it is intentional (§12.7.6).
-- Talking, deliberately making noise or touching another player during the
-  Night is now a Disqualifying Foul (§12.7.13–14). It is no longer only a
-  breach of Night behaviour.
-- Involuntary peeking is a Disqualifying Foul where game information could
-  be seen (§12.7.18), and a Warning only where nothing could be seen
-  (§12.6.15).
+- Talking, deliberately making noise, touching another player, touching the
+  mask, involuntary peeking, eating or drinking, and a serious posture
+  breach during the Night are Disqualifying Fouls (§12.7.7, §12.7.13–14,
+  §12.7.18–19).
 - New Disqualifying Fouls for whispering hidden Day information and for
   seeking a non-game advantage (§12.7.15–16), and new PPK grounds (§12.8.3).
 - An involuntary emotional response that keeps disrupting play after a
@@ -39,8 +41,8 @@ label only. These changes are of substance:
   "Mafia wake up and get acquainted.", "Mafia fall asleep.", "Mafia go
   hunting and raise their pistols."
 - **§4.3.9–10** — the shooting closes with "Mafia lower their pistols and fall
-  asleep.", the counterpart of the opening call in §4.3.2. The Dark players lower
-  their hands at that call.
+  asleep.", the counterpart of the opening call in §4.3.2. The Dark players
+  lower their hands at that call.
 - **§4.6.2** — the Judge's Best Move call is now "…call up to three numbers
   and nothing else…", since one or two numbers are valid (see *Best Move*).
 - **§4.4.1, §9.4.1** — the Don's call is now "Don wakes and does their
@@ -53,8 +55,9 @@ label only. These changes are of substance:
   Night-procedure foul (§12.7.6), intentionally or not.
 - **§4.8, §7.6.2, §4.1 note** — a technical pause is held masked, in Relaxed
   Seating: Night behaviour applies, but hands rest visibly on the table
-  instead of crossed over the shoulders. New **§4.8.3**: a breach during a
-  technical pause is sanctioned as if committed at Night.
+  instead of crossed over the shoulders. New **§4.8.3**: a breach of Night
+  behaviour during a technical pause draws only a general Notice (§12.12).
+  v2026.5 made it a Warning.
 - **§5.5.4–6** (new) — players address one another by seat number or
   nickname, and the Judge as "Mr/Ms Judge" or "Mr/Ms Host". A speech ends
   with "Pass" or "Thank you". The Judge corrects a breach, and a repeated
@@ -97,9 +100,9 @@ label only. These changes are of substance:
 - **§4.6.3, §4.6.6, §13.3.2–3, §13.3.6** — the player may state only seat
   numbers, up to three. Anything else, including asking anyone for help in
   choosing, voids the Best Move for scoring. As information at the table,
-  only the numbers, up to three, stated before anything else remain valid. Fewer than three numbers is still a valid
-  Best Move: it is scored against three, and a number not stated counts as
-  wrong.
+  only the first three seat numbers, or fewer, stated before anything else
+  remain valid. Fewer than three numbers is still a valid Best Move: it is
+  scored against three, and a number not stated counts as wrong.
 
   Example: the player names 4 and 7 before the 20 seconds run out, and both
   are Dark. That is two of three, so +0.5. Had the player said "4, 7, and
@@ -126,36 +129,62 @@ label only. These changes are of substance:
 
 ### Discipline
 
+- **§12.12** (new) — Sanctions during the Night:
+  - ¶1: a breach during the Night draws a Disqualifying Foul (or PPK), or no
+    sanction. No Warning and no Notice to a player is given for it, during
+    the Night or afterwards: a sanction announced the next Day would reveal
+    what happened at Night.
+  - ¶2: a posture breach the Judge does not consider serious, and an
+    involuntary sound such as a cough or a sneeze, draw no sanction.
+  - ¶3–5: during Relaxed Seating and a technical pause, involuntary peeking,
+    touching the mask and posture breaches draw only a **general Notice**:
+    "Remain in the Night position, please.", said to the whole table without
+    naming anyone and recorded against no one. During a technical pause this
+    covers every breach of Night behaviour. The Judge may give the same
+    reminder at any other moment of the Night.
+  - ¶6: deliberate peeking and non-game methods of obtaining information
+    remain Disqualifying Fouls during Relaxed Seating and a technical pause.
+
+  Example: during the shooting, a Dark player's hand slips off their
+  shoulder and they touch their mask. The Judge does not stop the Night and
+  does not give a Warning the next Day. Touching the mask is a Disqualifying
+  Foul; the hand slip alone would be one only if the Judge considered it
+  serious. During the 30 seconds of Relaxed Seating on Night 0, the same mask
+  adjustment draws only the general Notice.
 - **§12.6** — Warnings:
-  - ¶8 now names the Night behaviour items it covers: posture, hands, head,
-    eating or drinking, and items removed before the Night.
+  - ¶8 now covers only refusing, before the Night, to remove a hat, glasses
+    or another item that interferes with the mask. v2026.5 ¶8 made any breach
+    of Night behaviour a Warning.
+  - ¶9 now covers mask handling in the Day only, outside a technical pause.
+    v2026.5 also covered Relaxed Seating.
   - ¶11 becomes a real catch-all: other conduct of comparable weight, at the
     Judge's determination. v2026.5 covered only violations "expressly
     defined" elsewhere, which left the Judge no clause for unlisted conduct.
-  - New ¶12–15: knocking on the table or unethical conduct toward players or
+  - New ¶12–14: knocking on the table or unethical conduct toward players or
     Judges; gesturing or campaigning during the vote; refusing to remove the
-    mask when the Judge asks; involuntary peeking at a moment when no game
-    information could be seen, such as during Relaxed Seating. v2026.5 made
-    any involuntary peeking a Warning, and only by implication.
+    mask when the Judge asks.
 - **§12.7** — Disqualifying Fouls:
   - ¶4 is limited to information obtained by prohibited means (peeking,
     hearing).
-  - ¶6 defines a Night-procedure violation: acting at Night other than on the
-    Judge's call, including waking on a call addressed to another player.
-    v2026.5 covered only an *intentional* violation; intent no longer
-    matters.
-  - New ¶13–18: talking, or deliberately making noise, at Night (an
-    involuntary cough or sneeze is not a foul); touching another player at
-    Night; whispering unique Day information hidden from the table; an
-    attempt to gain a non-game advantage to prove a role or sway the vote; an
-    involuntary emotional response that keeps disrupting play after a Notice;
-    involuntary peeking at a moment when game information could be seen, such
-    as a player's team or role while anyone is acting on the Judge's call.
-
-  Example: a player's mask slips during Relaxed Seating on Night 0, when no
-  one is acting. That is a Warning (§12.6.15). The same slip during the
-  shooting, or during the Don's or the Sheriff's check, is a Disqualifying
-  Foul (§12.7.18). Whether the player actually saw anything does not matter.
+  - ¶6 defines a Night-procedure violation: a Night action (waking, removing
+    the mask in order to act, or a Night gesture) other than on the Judge's
+    call, including waking on a call addressed to another player. v2026.5
+    covered only an *intentional* violation; intent no longer matters.
+    Conduct with its own paragraph (mask, noise, peeking, posture) or covered
+    by §12.12 is sanctioned there.
+  - ¶7: any touch of the mask at Night other than on the Judge's call is a
+    Disqualifying Foul, including during the shooting. v2026.5 required the
+    eyes to be, or possibly be, exposed.
+  - New ¶13–19: talking, or deliberately making noise, at Night; touching
+    another player at Night; whispering unique Day information hidden from
+    the table; an attempt to gain a non-game advantage to prove a role or
+    sway the vote; an involuntary emotional response that keeps disrupting
+    play after a Notice; involuntary peeking at Night; eating or drinking at
+    Night, or a posture breach the Judge considers serious. v2026.5 made
+    involuntary peeking a Warning, and only by implication.
+- **§4.1.8, §12.10.4** — Night behaviour points to §12.12. At Night, in
+  Relaxed Seating and in a technical pause, a Notice is given only as a
+  general Notice.
 - **§12.8** — PPK grounds:
   - Bribery and threats join blackmail and coercion.
   - New grounds: prompts from the audience, and committing §12.7.5, §12.7.9,
@@ -208,8 +237,9 @@ label only. These changes are of substance:
 
 No sections or paragraphs are renumbered. New items are appended to their
 lists: §2.3.1.3–5, §4.4.7, §4.5.8, §4.8.3, §5.5.4–6, §5.6.5, §5.7.3,
-§7.6.4, §8.8.2, §9.1.5, §11.1.7–8, §12.3.6, §12.6.12–15, §12.7.13–18,
-§12.9.4, §15.1.10 and §15.3.7.1–4. §12.11.3 is removed.
+§7.6.4, §8.8.2, §9.1.5, §11.1.7–8, §12.3.6, §12.6.12–14, §12.7.13–19,
+§12.9.4, §12.10.4, §15.1.10 and §15.3.7.1–4. New §12.12 follows §12.11.
+§12.11.3 is removed.
 
 ## v2026.5 Edition
 

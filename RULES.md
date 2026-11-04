@@ -194,7 +194,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
    * touching another player.
 6. Hats, glasses, and any other item liable to interfere with the mask must be removed before the Night phase begins.
 7. A player must not touch the mask during the Night phase unless the Judge directs otherwise.
-8. A breach of any of these Night behaviour requirements is subject to disciplinary consequences under these Rules.
+8. A breach of any of these Night behaviour requirements is subject to disciplinary consequences under these Rules, as set out in §12.12.
 
 > _These requirements are suspended only during the periods of "Relaxed Seating" expressly defined in these Rules: the interval after the Sheriff's identification on Night 0 (§4.2.10–12) and a technical pause (§4.8)._
 
@@ -264,7 +264,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 3. The player removes their mask and states aloud the seat numbers, up to three, of the players they believe to belong to the Dark team. The player may state only seat numbers.
 4. Twenty seconds is the maximum time permitted to do so.
 5. The Judge repeats the numbers and confirms: "Accepted."
-6. If the player states anything other than seat numbers, or more than three numbers, including additional information or a remark directed at another player, only the numbers, up to three, stated before that point remain valid. This provision concerns only what stands as information at the table and does not affect eligibility for bonus points; see §13.3.6.
+6. If the player states more than three numbers, or anything other than seat numbers, including additional information or a remark directed at another player, only the first three seat numbers, or fewer, stated before that point remain valid. This provision concerns only what stands as information at the table and does not affect eligibility for bonus points; see §13.3.6.
 7. Once stated, the numbers are final and may not be added to or altered.
 8. Upon completion of the Best Move, the player resumes the Night position, and the game proceeds to the Day phase.
 9. The player retains the right to a one-minute final speech when the Day phase begins.
@@ -287,7 +287,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 1. Where a technical pause is called during the Day phase, the Night behaviour requirements apply for its duration, except that Relaxed Seating (§4.2.11–12) applies.
 2. Players must put on their masks, remain silent and comply with those requirements until the pause is lifted.
-3. A breach of those requirements during a technical pause is sanctioned under PART XII as if committed during the Night phase.
+3. A breach of those requirements during a technical pause draws only a general Notice (§12.12.3–4). Every other ground in PART XII applies during a technical pause as it does during the Day phase.
 
 ***
 
@@ -867,14 +867,13 @@ The following actions draw a Warning:
 5. Touching other players during the Day phase.
 6. Violating the voting procedure.
 7. Disputing with the Judge during the game.
-8. Failure to comply with the Night behaviour requirements of posture and conduct under §4.1.2–4.1.4 and §4.1.6, and eating or drinking during the Night phase.
-9. Removing or improperly handling the mask without instruction during Relaxed Seating or the Day phase.
+8. Failure to remove a hat, glasses, or any other item liable to interfere with the mask (§4.1.6) when the Judge so requests before the Night phase begins.
+9. Removing or improperly handling the mask without instruction during the Day phase, other than during a technical pause (§4.8).
 10. Concealing speech information by using a language other than the designated language of the game.
 11. Other conduct that breaches these Rules and is of comparable weight to the grounds in this Section, at the Judge's determination.
 12. Knocking on the table, or unethical conduct toward players or Judges.
 13. Gesturing or campaigning during the vote.
 14. Refusing to remove the mask when the Judge so requests.
-15. Involuntary peeking during the Night phase at a moment when no game information could be seen, such as during Relaxed Seating. Involuntary peeking at any other moment falls under §12.7.18.
 
 ***
 
@@ -887,8 +886,8 @@ The following actions draw a Disqualifying Foul:
 3. Communicating Night information through unauthorized gestures or signals.
 4. Revealing role information obtained during the Night by prohibited means, including by peeking or by hearing another player.
 5. Use of offensive or abusive language directed at players, the Judge, tournament officials, or spectators.
-6. Violation of the Night procedure, that is, acting during the Night other than on the Judge's call (§3.1.1.2), including waking on a call addressed to another player, whether or not the violation is intentional.
-7. Contact with the mask during the Night phase where the eyes are, or could thereby be, exposed (see §4.1.7).
+6. Violation of the Night procedure, that is, performing a Night action other than on the Judge's call (§3.1.1.2): waking, removing the mask in order to act, or making a Night gesture, including on a call addressed to another player, whether or not the violation is intentional. Conduct covered by §12.7.7, §12.7.13, §12.7.18, §12.7.19, or §12.12 is sanctioned under that provision and not under this one.
+7. Touching the mask during the Night phase other than on the Judge's call, including during the shooting (see §4.1.7), subject to §12.12.3.
 8. Any action that materially compromises the integrity of the game.
 9. Appealing to religious, ethical, or non-game values to prove one's role.
 10. Use of obscene language.
@@ -899,7 +898,8 @@ The following actions draw a Disqualifying Foul:
 15. Passing unique Day information to another player by a whisper hidden from the Judge and the rest of the table.
 16. An attempt to gain a non-game advantage in order to prove one's role or to influence the vote.
 17. An involuntary emotional response that continues to disrupt play after a Notice (§12.11).
-18. Involuntary peeking during the Night phase at a moment when game information could be seen, including a player's team or role, in particular while any player is acting on the Judge's call.
+18. Involuntary peeking during the Night phase, subject to §12.12.3.
+19. Eating or drinking during the Night phase, or a breach of the Night posture under §4.1.2–4.1.4 that the Judge determines to be serious, subject to §12.12.2–3.
 
 ***
 
@@ -932,6 +932,7 @@ The following actions draw a Disqualifying Foul:
 1. A Notice is a caution issued by the Judge for conduct that breaches these Rules but is too minor to warrant a Warning.
 2. A Notice does not accumulate toward the Warning ladder in §12.3 and carries no scoring consequence under PART XIII. It is distinct from the Disciplinary penalty under §13.11, which the Head Judge imposes for conduct between games.
 3. The Judge determines whether particular conduct warrants a Notice or a Warning.
+4. During the Night phase, a Relaxed Seating period and a technical pause, a Notice is given only as a general Notice under §12.12.4.
 
 ***
 
@@ -939,6 +940,17 @@ The following actions draw a Disqualifying Foul:
 
 1. An involuntary emotional response at the gaming table, including visible distress or crying, is not in itself a foul.
 2. The Judge may respond with a Notice and, where the response continues to disrupt play after that Notice, with a Disqualifying Foul (§12.7.17).
+
+***
+
+### **12.12 Sanctions During the Night**
+
+1. A breach of these Rules during the Night phase draws a Disqualifying Foul or PPK where these Rules so provide, or no sanction. No Warning and no Notice addressed to a player is given for it, either during the Night or afterwards, so that no Night information is revealed.
+2. A breach of the Night posture under §4.1.2–4.1.4 that the Judge does not determine to be serious draws no sanction. An involuntary sound draws no sanction.
+3. During Relaxed Seating (§4.2.11–12) and during a technical pause (§4.8), involuntary peeking, touching the mask, and any breach of the Night posture draw only a general Notice. During a technical pause, the same applies to every other breach of the Night behaviour requirements.
+4. A **general Notice** is a Notice addressed to the whole table without naming any player. The Judge gives it with the phrase: "Remain in the Night position, please." It is recorded against no player and carries no consequence under §12.3 or PART XIII.
+5. The Judge may also give a general Notice, as a reminder to the table, at any other moment of the Night phase.
+6. Deliberate peeking (§12.7.1) and the use of non-game methods to obtain information (§12.7.2) remain Disqualifying Fouls during Relaxed Seating and during a technical pause.
 
 ***
 

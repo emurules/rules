@@ -874,7 +874,7 @@ The following actions draw a Warning:
 12. Knocking on the table, or unethical conduct toward players or Judges.
 13. Gesturing or campaigning during the vote.
 14. Refusing to remove the mask when the Judge so requests.
-15. Involuntary peeking during the Night phase.
+15. Involuntary peeking during the Night phase at a moment when no game information could be seen, such as during Relaxed Seating. Involuntary peeking at any other moment falls under §12.7.18.
 
 ***
 
@@ -887,7 +887,7 @@ The following actions draw a Disqualifying Foul:
 3. Communicating Night information through unauthorized gestures or signals.
 4. Revealing role information obtained during the Night by prohibited means, including by peeking or by hearing another player.
 5. Use of offensive or abusive language directed at players, the Judge, tournament officials, or spectators.
-6. Intentional violation of the Night procedure, that is, acting during the Night other than on the Judge's call (§3.1.1.2), including waking on a call addressed to another player.
+6. Violation of the Night procedure, that is, acting during the Night other than on the Judge's call (§3.1.1.2), including waking on a call addressed to another player, whether or not the violation is intentional.
 7. Contact with the mask during the Night phase where the eyes are, or could thereby be, exposed (see §4.1.7).
 8. Any action that materially compromises the integrity of the game.
 9. Appealing to religious, ethical, or non-game values to prove one's role.
@@ -899,6 +899,7 @@ The following actions draw a Disqualifying Foul:
 15. Passing unique Day information to another player by a whisper hidden from the Judge and the rest of the table.
 16. An attempt to gain a non-game advantage in order to prove one's role or to influence the vote.
 17. An involuntary emotional response that continues to disrupt play after a Notice (§12.11).
+18. Involuntary peeking during the Night phase at a moment when game information could be seen, including a player's team or role, in particular while any player is acting on the Judge's call.
 
 ***
 

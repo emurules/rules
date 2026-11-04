@@ -10,9 +10,14 @@ phrases, and completes the lists of Warnings, Disqualifying Fouls and PPK
 grounds. PPK is renamed **Victory of the Opposite Team (PPK)**, a change of
 label only. These changes are of substance:
 
+- Acting at Night without the Judge's call is a Disqualifying Foul whether
+  or not it is intentional (§12.7.6).
 - Talking, deliberately making noise or touching another player during the
   Night is now a Disqualifying Foul (§12.7.13–14). It is no longer only a
   breach of Night behaviour.
+- Involuntary peeking is a Disqualifying Foul where game information could
+  be seen (§12.7.18), and a Warning only where nothing could be seen
+  (§12.6.15).
 - New Disqualifying Fouls for whispering hidden Day information and for
   seeking a non-game advantage (§12.7.15–16), and new PPK grounds (§12.8.3).
 - An involuntary emotional response that keeps disrupting play after a
@@ -45,7 +50,7 @@ label only. These changes are of substance:
 - **§4.4.7, §4.5.8** (new) — the Don and Sheriff calls are made on every
   Night, even after that player has left the game, so that their departure is
   not revealed. A player who wakes on a call that is not theirs commits a
-  Night-procedure foul (§12.7.6).
+  Night-procedure foul (§12.7.6), intentionally or not.
 - **§4.8, §7.6.2, §4.1 note** — a technical pause is held masked, in Relaxed
   Seating: Night behaviour applies, but hands rest visibly on the table
   instead of crossed over the shoulders. New **§4.8.3**: a breach during a
@@ -129,18 +134,28 @@ label only. These changes are of substance:
     defined" elsewhere, which left the Judge no clause for unlisted conduct.
   - New ¶12–15: knocking on the table or unethical conduct toward players or
     Judges; gesturing or campaigning during the vote; refusing to remove the
-    mask when the Judge asks; involuntary peeking. Involuntary peeking was a
-    Warning before only by implication; it now has its own clause.
+    mask when the Judge asks; involuntary peeking at a moment when no game
+    information could be seen, such as during Relaxed Seating. v2026.5 made
+    any involuntary peeking a Warning, and only by implication.
 - **§12.7** — Disqualifying Fouls:
   - ¶4 is limited to information obtained by prohibited means (peeking,
     hearing).
   - ¶6 defines a Night-procedure violation: acting at Night other than on the
-    Judge's call.
-  - New ¶13–17: talking, or deliberately making noise, at Night (an
+    Judge's call, including waking on a call addressed to another player.
+    v2026.5 covered only an *intentional* violation; intent no longer
+    matters.
+  - New ¶13–18: talking, or deliberately making noise, at Night (an
     involuntary cough or sneeze is not a foul); touching another player at
     Night; whispering unique Day information hidden from the table; an
     attempt to gain a non-game advantage to prove a role or sway the vote; an
-    involuntary emotional response that keeps disrupting play after a Notice.
+    involuntary emotional response that keeps disrupting play after a Notice;
+    involuntary peeking at a moment when game information could be seen, such
+    as a player's team or role while anyone is acting on the Judge's call.
+
+  Example: a player's mask slips during Relaxed Seating on Night 0, when no
+  one is acting. That is a Warning (§12.6.15). The same slip during the
+  shooting, or during the Don's or the Sheriff's check, is a Disqualifying
+  Foul (§12.7.18). Whether the player actually saw anything does not matter.
 - **§12.8** — PPK grounds:
   - Bribery and threats join blackmail and coercion.
   - New grounds: prompts from the audience, and committing §12.7.5, §12.7.9,
@@ -193,7 +208,7 @@ label only. These changes are of substance:
 
 No sections or paragraphs are renumbered. New items are appended to their
 lists: §2.3.1.3–5, §4.4.7, §4.5.8, §4.8.3, §5.5.4–6, §5.6.5, §5.7.3,
-§7.6.4, §8.8.2, §9.1.5, §11.1.7–8, §12.3.6, §12.6.12–15, §12.7.13–17,
+§7.6.4, §8.8.2, §9.1.5, §11.1.7–8, §12.3.6, §12.6.12–15, §12.7.13–18,
 §12.9.4, §15.1.10 and §15.3.7.1–4. §12.11.3 is removed.
 
 ## v2026.5 Edition

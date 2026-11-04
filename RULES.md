@@ -287,7 +287,7 @@ This text is the sole and complete source of the Rules. It admits no supplementa
 
 1. Where a technical pause is called during the Day phase, the Night behaviour requirements apply for its duration, except that Relaxed Seating (§4.2.11–12) applies.
 2. Players must put on their masks, remain silent and comply with those requirements until the pause is lifted.
-3. A breach of those requirements during a technical pause draws only a general Notice (§12.12.3–4). Every other ground in PART XII applies during a technical pause as it does during the Day phase.
+3. A breach of those requirements during a technical pause is sanctioned as if committed during the Night phase, subject to §12.12.3. Grounds in PART XII that do not concern the Night behaviour requirements apply as they do during the Day phase.
 
 ***
 
@@ -897,7 +897,7 @@ The following actions draw a Disqualifying Foul:
 14. Touching another player during the Night phase.
 15. Passing unique Day information to another player by a whisper hidden from the Judge and the rest of the table.
 16. An attempt to gain a non-game advantage in order to prove one's role or to influence the vote.
-17. An involuntary emotional response that continues to disrupt play after a Notice (§12.11).
+17. An involuntary emotional response that continues to disrupt play after a Notice, or that disrupts play during the Night phase (§12.11).
 18. Involuntary peeking during the Night phase, subject to §12.12.3.
 19. Eating or drinking during the Night phase, or a breach of the Night posture under §4.1.2–4.1.4 that the Judge determines to be serious, subject to §12.12.2–3.
 
@@ -939,7 +939,7 @@ The following actions draw a Disqualifying Foul:
 ### **12.11 Involuntary Emotional Response**
 
 1. An involuntary emotional response at the gaming table, including visible distress or crying, is not in itself a foul.
-2. The Judge may respond with a Notice and, where the response continues to disrupt play after that Notice, with a Disqualifying Foul (§12.7.17).
+2. The Judge may respond with a Notice and, where the response continues to disrupt play after that Notice, with a Disqualifying Foul (§12.7.17). During the Night phase, an involuntary emotional response that disrupts play draws a Disqualifying Foul without a prior Notice.
 
 ***
 
@@ -947,10 +947,11 @@ The following actions draw a Disqualifying Foul:
 
 1. A breach of these Rules during the Night phase draws a Disqualifying Foul or PPK where these Rules so provide, or no sanction. No Warning and no Notice addressed to a player is given for it, either during the Night or afterwards, so that no Night information is revealed.
 2. A breach of the Night posture under §4.1.2–4.1.4 that the Judge does not determine to be serious draws no sanction. An involuntary sound draws no sanction.
-3. During Relaxed Seating (§4.2.11–12) and during a technical pause (§4.8), involuntary peeking, touching the mask, and any breach of the Night posture draw only a general Notice. During a technical pause, the same applies to every other breach of the Night behaviour requirements.
+3. During Relaxed Seating (§4.2.11–12) and during a technical pause (§4.8), involuntary peeking, touching the mask, and any breach of the Night posture draw only a general Notice. Every other breach during those periods is sanctioned as during the Night phase.
 4. A **general Notice** is a Notice addressed to the whole table without naming any player. The Judge gives it with the phrase: "Remain in the Night position, please." It is recorded against no player and carries no consequence under §12.3 or PART XIII.
 5. The Judge may also give a general Notice, as a reminder to the table, at any other moment of the Night phase.
 6. Deliberate peeking (§12.7.1) and the use of non-game methods to obtain information (§12.7.2) remain Disqualifying Fouls during Relaxed Seating and during a technical pause.
+7. A Disqualifying Foul committed during the Night phase, during Relaxed Seating, or during a technical pause is not announced. The Judge removes the player from the table immediately and in silence, without interrupting the Night or the pause and without stating the reason. The removal otherwise has the consequences set out in §12.5 and PART VIII.
 
 ***
 

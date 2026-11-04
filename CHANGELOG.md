@@ -56,8 +56,9 @@ label only. These changes are of substance:
 - **§4.8, §7.6.2, §4.1 note** — a technical pause is held masked, in Relaxed
   Seating: Night behaviour applies, but hands rest visibly on the table
   instead of crossed over the shoulders. New **§4.8.3**: a breach of Night
-  behaviour during a technical pause draws only a general Notice (§12.12).
-  v2026.5 made it a Warning.
+  behaviour during a technical pause is sanctioned as at Night (§12.12):
+  a Disqualifying Foul, or only a general Notice for involuntary peeking,
+  touching the mask or posture. v2026.5 made such a breach a Warning.
 - **§5.5.4–6** (new) — players address one another by seat number or
   nickname, and the Judge as "Mr/Ms Judge" or "Mr/Ms Host". A speech ends
   with "Pass" or "Thank you". The Judge corrects a breach, and a repeated
@@ -139,18 +140,24 @@ label only. These changes are of substance:
   - ¶3–5: during Relaxed Seating and a technical pause, involuntary peeking,
     touching the mask and posture breaches draw only a **general Notice**:
     "Remain in the Night position, please.", said to the whole table without
-    naming anyone and recorded against no one. During a technical pause this
-    covers every breach of Night behaviour. The Judge may give the same
-    reminder at any other moment of the Night.
+    naming anyone and recorded against no one. Every other breach in those
+    periods, such as talking or touching another player, is sanctioned as at
+    Night. The Judge may give the same reminder at any other moment of the
+    Night.
   - ¶6: deliberate peeking and non-game methods of obtaining information
     remain Disqualifying Fouls during Relaxed Seating and a technical pause.
+  - ¶7: a Disqualifying Foul at Night, in Relaxed Seating or in a technical
+    pause is not announced. The Judge removes the player at once and in
+    silence, without interrupting the Night and without giving the reason.
 
-  Example: during the shooting, a Dark player's hand slips off their
-  shoulder and they touch their mask. The Judge does not stop the Night and
-  does not give a Warning the next Day. Touching the mask is a Disqualifying
-  Foul; the hand slip alone would be one only if the Judge considered it
-  serious. During the 30 seconds of Relaxed Seating on Night 0, the same mask
-  adjustment draws only the general Notice.
+  Example: during the Sheriff's check, a Red player lifts a hand from their
+  shoulder to adjust their mask. Touching the mask is a Disqualifying Foul:
+  the Judge silently removes the player, the Night goes on, and no reason is
+  given. During the 30 seconds of Relaxed Seating on Night 0, the same mask
+  adjustment draws only the general Notice. If, during the check, another
+  player's hand merely slips from their shoulder, that is a Disqualifying
+  Foul only if the Judge considers it serious; otherwise it draws no
+  sanction, and no Warning is given the next Day.
 - **§12.6** — Warnings:
   - ¶8 now covers only refusing, before the Night, to remove a hat, glasses
     or another item that interferes with the mask. v2026.5 ¶8 made any breach
@@ -179,7 +186,8 @@ label only. These changes are of substance:
     another player at Night; whispering unique Day information hidden from
     the table; an attempt to gain a non-game advantage to prove a role or
     sway the vote; an involuntary emotional response that keeps disrupting
-    play after a Notice; involuntary peeking at Night; eating or drinking at
+    play after a Notice, or that disrupts play at Night; involuntary peeking
+    at Night; eating or drinking at
     Night, or a posture breach the Judge considers serious. v2026.5 made
     involuntary peeking a Warning, and only by implication.
 - **§4.1.8, §12.10.4** — Night behaviour points to §12.12. At Night, in
@@ -209,8 +217,9 @@ label only. These changes are of substance:
   them if it is their fourth. A non-game appeal made in the same speech is no
   longer sanctioned.
 - **§12.11** — an involuntary emotional response draws a Notice and, if it
-  keeps disrupting play, a Disqualifying Foul (§12.7.17). The Warning step and
-  the separate ¶3 are removed.
+  keeps disrupting play, a Disqualifying Foul (§12.7.17). At Night, where no
+  Notice can be given, one that disrupts play is a Disqualifying Foul
+  straight away. The Warning step and the separate ¶3 are removed.
 
 ### Scoring and penalties
 
